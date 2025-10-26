@@ -1,0 +1,609 @@
+/* 全域樣式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Microsoft JhengHei', 'PingFang TC', sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+/* 頁首 */
+.header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.header p {
+    opacity: 0.9;
+    font-size: 14px;
+}
+
+/* 全域搜尋區 */
+.global-search {
+    padding: 25px 30px;
+    background: #f8f9fa;
+    border-bottom: 2px solid #e9ecef;
+}
+
+.search-box {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.search-input {
+    flex: 1;
+    min-width: 250px;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: 2px solid #dee2e6;
+    border-radius: 8px;
+    transition: all 0.3s;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.mode-toggle,
+.search-scope-toggle {
+    display: flex;
+    gap: 5px;
+    background: white;
+    padding: 5px;
+    border-radius: 8px;
+    border: 2px solid #dee2e6;
+}
+
+.mode-btn,
+.scope-btn {
+    padding: 8px 16px;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s;
+    white-space: nowrap;
+}
+
+.mode-btn.active {
+    background: #667eea;
+    color: white;
+}
+
+.scope-btn {
+    font-size: 13px;
+}
+
+.scope-btn.active {
+    background: #28a745;
+    color: white;
+}
+
+.clear-btn {
+    padding: 10px 20px;
+    background: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.clear-btn:hover {
+    background: #5a6268;
+}
+
+.search-results-summary {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.result-badge {
+    padding: 10px 18px;
+    background: white;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    border: 2px solid #dee2e6;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.result-badge:hover {
+    border-color: #667eea;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+}
+
+.result-badge .icon {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.result-badge .count {
+    display: inline-block;
+    padding: 2px 8px;
+    background: #e9ecef;
+    border-radius: 10px;
+    margin-left: 8px;
+    font-size: 12px;
+}
+
+/* 分頁標籤 */
+.tabs {
+    display: flex;
+    background: #f8f9fa;
+    border-bottom: 2px solid #dee2e6;
+    overflow-x: auto;
+}
+
+.tab {
+    padding: 18px 30px;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+    color: #6c757d;
+    transition: all 0.3s;
+    white-space: nowrap;
+}
+
+.tab:hover {
+    background: rgba(102, 126, 234, 0.05);
+    color: #495057;
+}
+
+.tab.active {
+    color: #667eea;
+    border-bottom-color: #667eea;
+    background: white;
+}
+
+.tab .icon {
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+.tab .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    background: #dee2e6;
+    border-radius: 10px;
+    margin-left: 8px;
+    font-size: 11px;
+}
+
+.tab.active .badge {
+    background: #667eea;
+    color: white;
+}
+
+.tab-content {
+    display: none;
+    padding: 30px;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* 篩選器 */
+.filters {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.filter-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.filter-label {
+    font-size: 13px;
+    color: #6c757d;
+    font-weight: 600;
+}
+
+.filter-select {
+    padding: 8px 12px;
+    border: 2px solid #dee2e6;
+    border-radius: 6px;
+    font-size: 13px;
+    background: white;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.filter-select:hover {
+    border-color: #667eea;
+}
+
+.slider-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    min-width: 250px;
+}
+
+.slider {
+    flex: 1;
+    height: 6px;
+    border-radius: 3px;
+    background: #dee2e6;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #667eea;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #667eea;
+    cursor: pointer;
+    border: none;
+}
+
+.slider-value {
+    min-width: 80px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #495057;
+}
+
+/* 表格樣式 */
+.table-container {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background: #f8f9fa;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+th {
+    padding: 15px 12px;
+    text-align: left;
+    font-weight: 600;
+    color: #495057;
+    border-bottom: 2px solid #dee2e6;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+th:hover {
+    background: #e9ecef;
+}
+
+th.sortable::after {
+    content: ' ⇅';
+    opacity: 0.3;
+    font-size: 12px;
+}
+
+th.sorted-asc::after {
+    content: ' ↑';
+    opacity: 1;
+    color: #667eea;
+}
+
+th.sorted-desc::after {
+    content: ' ↓';
+    opacity: 1;
+    color: #667eea;
+}
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid #e9ecef;
+    vertical-align: top;
+    font-size: 14px;
+}
+
+tr:hover {
+    background: #f8f9fa;
+}
+
+.price {
+    font-size: 16px;
+    font-weight: 700;
+    color: #f59e0b;
+    white-space: nowrap;
+}
+
+/* 標籤樣式 */
+.material-tag,
+.crop-name-tag {
+    display: inline-block;
+    padding: 3px 8px;
+    margin: 2px;
+    background: #e9ecef;
+    border-radius: 6px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.material-tag:hover,
+.crop-name-tag:hover {
+    background: #667eea;
+    color: white;
+    transform: translateY(-1px);
+}
+
+/* 季節標籤 */
+.season-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    margin: 0 2px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.season-spring {
+    background: #90ee90;
+    color: #1b5e20;
+}
+
+.season-summer {
+    background: #ff6b6b;
+    color: #7f0000;
+}
+
+.season-autumn {
+    background: #ffa500;
+    color: #663300;
+}
+
+.season-winter {
+    background: #87ceeb;
+    color: #003366;
+}
+
+/* 類別標籤 */
+.category-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+    min-width: 80px;
+    text-align: center;
+}
+
+/* 風車顏色 */
+.windmill-red {
+    background: #ffcdd2;
+    color: #b71c1c;
+    white-space: nowrap;
+}
+
+.windmill-blue {
+    background: #bbdefb;
+    color: #0d47a1;
+    white-space: nowrap;
+}
+
+.windmill-yellow {
+    background: #fff9c4;
+    color: #f57f17;
+    white-space: nowrap;
+}
+
+/* 加工品類別顏色 */
+.cat-工具 {
+    background: #e1f5fe;
+    color: #01579b;
+}
+
+.cat-材料 {
+    background: #f3e5f5;
+    color: #4a148c;
+}
+
+.cat-食材 {
+    background: #fff3e0;
+    color: #e65100;
+}
+
+.cat-種子 {
+    background: #e8f5e9;
+    color: #1b5e20;
+}
+
+.cat-肥料 {
+    background: #f1f8e9;
+    color: #33691e;
+}
+
+.cat-禮物 {
+    background: #fce4ec;
+    color: #880e4f;
+}
+
+.cat-市集擺設 {
+    background: #e0f2f1;
+    color: #004d40;
+}
+
+.cat-其他 {
+    background: #f5f5f5;
+    color: #424242;
+}
+
+/* 料理類別顏色 */
+.cook-主菜料理 {
+    background: #ffe0b2;
+    color: #e65100;
+}
+
+.cook-前菜料理 {
+    background: #ffecb3;
+    color: #f57f17;
+}
+
+.cook-沙拉料理 {
+    background: #c8e6c9;
+    color: #2e7d32;
+}
+
+.cook-湯類料理 {
+    background: #ffccbc;
+    color: #d84315;
+}
+
+.cook-甜點料理 {
+    background: #f8bbd0;
+    color: #c2185b;
+}
+
+.cook-其他料理 {
+    background: #e1bee7;
+    color: #6a1b9a;
+}
+
+.cook-其他料理果汁 {
+    background: #b2dfdb;
+    color: #00695c;
+}
+
+.cook-其他料理茶 {
+    background: #d7ccc8;
+    color: #4e342e;
+}
+
+/* 連作標籤 */
+.continuous-badge {
+    display: inline-block;
+    padding: 2px 6px;
+    background: #d4edda;
+    color: #155724;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    margin-left: 4px;
+}
+
+/* 無結果 */
+.no-results {
+    text-align: center;
+    padding: 60px 20px;
+    color: #6c757d;
+}
+
+.no-results-icon {
+    font-size: 48px;
+    margin-bottom: 15px;
+    opacity: 0.5;
+}
+
+/* 統計資訊 */
+.stats {
+    padding: 12px 0;
+    color: #6c757d;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+/* 頁尾 */
+.footer {
+    background: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border-top: 2px solid #e9ecef;
+    font-size: 13px;
+    color: #6c757d;
+}
+
+.footer a {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* 響應式設計 */
+@media (max-width: 768px) {
+    .search-box {
+        flex-direction: column;
+    }
+
+    .mode-toggle,
+    .search-scope-toggle,
+    .clear-btn {
+        width: 100%;
+    }
+
+    table {
+        font-size: 13px;
+    }
+
+    th,
+    td {
+        padding: 8px;
+    }
+}

@@ -1,0 +1,7903 @@
+{
+  "crops": [
+    {
+      "name": "蕪菁",
+      "season": "春",
+      "days": 4,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 200,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "巨大蕪菁",
+      "season": "春",
+      "days": 4,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 600,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "蘆筍",
+      "season": "春",
+      "days": 6,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 300,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "扭曲蘆筍",
+      "season": "春",
+      "days": 6,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 900,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "高麗菜",
+      "season": "春冬",
+      "days": 7,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 470,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "冬"
+      ]
+    },
+    {
+      "name": "巨大高麗菜",
+      "season": "春冬",
+      "days": 7,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 1410,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "冬"
+      ]
+    },
+    {
+      "name": "馬鈴薯",
+      "season": "春夏冬",
+      "days": 6,
+      "regrow": "",
+      "harvest": 4,
+      "price": 60,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏",
+        "冬"
+      ]
+    },
+    {
+      "name": "星形馬鈴薯",
+      "season": "春夏冬",
+      "days": 6,
+      "regrow": "",
+      "harvest": 4,
+      "price": 180,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏",
+        "冬"
+      ]
+    },
+    {
+      "name": "南瓜",
+      "season": "夏",
+      "days": 5,
+      "regrow": "",
+      "harvest": "?",
+      "price": 400,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "巨大南瓜",
+      "season": "夏",
+      "days": 5,
+      "regrow": "",
+      "harvest": "?",
+      "price": 1200,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "洋蔥",
+      "season": "春夏",
+      "days": 6,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 250,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏"
+      ]
+    },
+    {
+      "name": "結實洋蔥",
+      "season": "春夏",
+      "days": 6,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 750,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏"
+      ]
+    },
+    {
+      "name": "櫻桃蘿蔔",
+      "season": "春夏秋",
+      "days": 5,
+      "regrow": "",
+      "harvest": 4,
+      "price": 50,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "葫蘆形櫻桃蘿蔔",
+      "season": "春夏秋",
+      "days": 5,
+      "regrow": "",
+      "harvest": 4,
+      "price": 150,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "西瓜",
+      "season": "夏",
+      "days": 9,
+      "regrow": "",
+      "harvest": "?",
+      "price": 540,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "愛心西瓜",
+      "season": "夏",
+      "days": 9,
+      "regrow": "",
+      "harvest": "?",
+      "price": 1620,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "哈密瓜",
+      "season": "夏秋",
+      "days": 7,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 470,
+      "continuous": "",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "珠寶哈密瓜",
+      "season": "夏秋",
+      "days": 7,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 1410,
+      "continuous": "",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "花椰菜",
+      "season": "秋",
+      "days": 6,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 430,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "紫花椰菜",
+      "season": "秋",
+      "days": 6,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 1290,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "胡蘿蔔",
+      "season": "秋冬",
+      "days": 5,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 300,
+      "continuous": "",
+      "seasons": [
+        "秋",
+        "冬"
+      ]
+    },
+    {
+      "name": "三腳胡蘿蔔",
+      "season": "秋冬",
+      "days": 5,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 900,
+      "continuous": "",
+      "seasons": [
+        "秋",
+        "冬"
+      ]
+    },
+    {
+      "name": "菠菜",
+      "season": "秋",
+      "days": 4,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 285,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "愛心菠菜",
+      "season": "秋",
+      "days": 4,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 855,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "辣椒",
+      "season": "秋",
+      "days": 9,
+      "regrow": "",
+      "harvest": 3,
+      "price": 135,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "指甲辣椒",
+      "season": "秋",
+      "days": 9,
+      "regrow": "",
+      "harvest": 3,
+      "price": 405,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "青江菜",
+      "season": "秋冬",
+      "days": 9,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 200,
+      "continuous": "",
+      "seasons": [
+        "秋",
+        "冬"
+      ]
+    },
+    {
+      "name": "黃金青江菜",
+      "season": "秋冬",
+      "days": 9,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 600,
+      "continuous": "",
+      "seasons": [
+        "秋",
+        "冬"
+      ]
+    },
+    {
+      "name": "白蘿蔔",
+      "season": "春冬",
+      "days": 4,
+      "regrow": "",
+      "harvest": "?",
+      "price": 280,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "冬"
+      ]
+    },
+    {
+      "name": "雙腳白蘿蔔",
+      "season": "春冬",
+      "days": 4,
+      "regrow": "",
+      "harvest": "?",
+      "price": 840,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "冬"
+      ]
+    },
+    {
+      "name": "白菜",
+      "season": "冬",
+      "days": 6,
+      "regrow": "",
+      "harvest": "?",
+      "price": 340,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "黃金白菜",
+      "season": "冬",
+      "days": 6,
+      "regrow": "",
+      "harvest": "?",
+      "price": 1020,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "青蔥",
+      "season": "冬",
+      "days": 4,
+      "regrow": "",
+      "harvest": "?",
+      "price": 75,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "結實青蔥",
+      "season": "冬",
+      "days": 4,
+      "regrow": "",
+      "harvest": "?",
+      "price": 225,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "牛蒡",
+      "season": "冬",
+      "days": 7,
+      "regrow": "",
+      "harvest": "?",
+      "price": 155,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "扭曲牛蒡",
+      "season": "冬",
+      "days": 7,
+      "regrow": "",
+      "harvest": "?",
+      "price": 465,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "草莓",
+      "season": "春",
+      "days": 8,
+      "regrow": "",
+      "harvest": 3,
+      "price": 120,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "黃金草莓",
+      "season": "春",
+      "days": 8,
+      "regrow": "",
+      "harvest": 3,
+      "price": 360,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "小黃瓜",
+      "season": "夏秋",
+      "days": 7,
+      "regrow": "?",
+      "harvest": 3,
+      "price": 40,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "波浪小黃瓜",
+      "season": "夏秋",
+      "days": 7,
+      "regrow": "?",
+      "harvest": 3,
+      "price": 120,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "大蒜",
+      "season": "春",
+      "days": 5,
+      "regrow": 5,
+      "harvest": 1.5,
+      "price": 120,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "黃金大蒜",
+      "season": "春",
+      "days": 5,
+      "regrow": 5,
+      "harvest": 1.5,
+      "price": 360,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "玉蜀黍",
+      "season": "夏",
+      "days": 8,
+      "regrow": "?",
+      "harvest": 1.5,
+      "price": 145,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "彩色玉蜀黍",
+      "season": "夏",
+      "days": 8,
+      "regrow": "?",
+      "harvest": 1.5,
+      "price": 435,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "番茄",
+      "season": "夏秋",
+      "days": 6,
+      "regrow": "?",
+      "harvest": 3,
+      "price": 42,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "巨大番茄",
+      "season": "夏秋",
+      "days": 6,
+      "regrow": "?",
+      "harvest": 3,
+      "price": 126,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "鳳梨",
+      "season": "夏",
+      "days": 6,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 330,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "珠寶鳳梨",
+      "season": "夏",
+      "days": 6,
+      "regrow": "",
+      "harvest": 1.5,
+      "price": 990,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "番薯",
+      "season": "秋",
+      "days": 6,
+      "regrow": "?",
+      "harvest": 1.5,
+      "price": 155,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "巨大番薯",
+      "season": "秋",
+      "days": 6,
+      "regrow": "?",
+      "harvest": 1.5,
+      "price": 465,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "茄子",
+      "season": "夏秋",
+      "days": 7,
+      "regrow": "?",
+      "harvest": 3,
+      "price": 50,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "圓球茄子",
+      "season": "夏秋",
+      "days": 7,
+      "regrow": "?",
+      "harvest": 3,
+      "price": 150,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "甜椒",
+      "season": "夏",
+      "days": 7,
+      "regrow": "?",
+      "harvest": "?",
+      "price": 48,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "跳舞甜椒",
+      "season": "夏",
+      "days": 7,
+      "regrow": "?",
+      "harvest": "?",
+      "price": 144,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "青椒",
+      "season": "夏秋",
+      "days": 8,
+      "regrow": "?",
+      "harvest": 4,
+      "price": 48,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "跳舞青椒",
+      "season": "夏秋",
+      "days": 8,
+      "regrow": "?",
+      "harvest": 4,
+      "price": 144,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "綠花椰菜",
+      "season": "春冬",
+      "days": 6,
+      "regrow": "",
+      "harvest": 3,
+      "price": 45,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "冬"
+      ]
+    },
+    {
+      "name": "萬歲綠花椰菜",
+      "season": "春冬",
+      "days": 6,
+      "regrow": "",
+      "harvest": 3,
+      "price": 135,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "冬"
+      ]
+    },
+    {
+      "name": "橄欖",
+      "season": "秋",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 120,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "黃金橄欖",
+      "season": "秋",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 360,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "咖啡豆",
+      "season": "春",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 146,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "黃金咖啡豆",
+      "season": "春",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 438,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "酪梨",
+      "season": "春",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 135,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "巨大酪梨",
+      "season": "春",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 405,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "柳橙",
+      "season": "春冬",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 138,
+      "continuous": "Y",
+      "seasons": [
+        "春",
+        "冬"
+      ]
+    },
+    {
+      "name": "腫包柳橙",
+      "season": "春冬",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 414,
+      "continuous": "Y",
+      "seasons": [
+        "春",
+        "冬"
+      ]
+    },
+    {
+      "name": "櫻桃",
+      "season": "春",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 140,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "心形櫻桃",
+      "season": "春",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 420,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "香蕉",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 200,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "黃金香蕉",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 600,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "桃子",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 140,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "黃金桃子",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 420,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "杏仁",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 120,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "珠寶杏仁",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 360,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "檸檬",
+      "season": "夏冬",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 135,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "冬"
+      ]
+    },
+    {
+      "name": "心形檸檬",
+      "season": "夏冬",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 405,
+      "continuous": "Y",
+      "seasons": [
+        "夏",
+        "冬"
+      ]
+    },
+    {
+      "name": "芒果",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 200,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "雞型芒果",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 600,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "可可豆",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 120,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "黃金可可豆",
+      "season": "夏",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 360,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "葡萄",
+      "season": "秋",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 175,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "手指葡萄",
+      "season": "秋",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 525,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "藍莓",
+      "season": "秋",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 125,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "群花藍莓",
+      "season": "秋",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 375,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "麝香葡萄",
+      "season": "秋",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 182,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "手指麝香葡萄",
+      "season": "秋",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 546,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "蘋果",
+      "season": "秋冬",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 170,
+      "continuous": "Y",
+      "seasons": [
+        "秋",
+        "冬"
+      ]
+    },
+    {
+      "name": "黃金蘋果",
+      "season": "秋冬",
+      "days": 14,
+      "regrow": 7,
+      "harvest": 11,
+      "price": 510,
+      "continuous": "Y",
+      "seasons": [
+        "秋",
+        "冬"
+      ]
+    },
+    {
+      "name": "稻米",
+      "season": "春夏秋",
+      "days": 11,
+      "regrow": "",
+      "harvest": 5,
+      "price": 70,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "豆子",
+      "season": "春夏秋",
+      "days": 9,
+      "regrow": "",
+      "harvest": 5,
+      "price": 65,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "小麥",
+      "season": "春夏秋",
+      "days": 9,
+      "regrow": "",
+      "harvest": 5,
+      "price": 75,
+      "continuous": "",
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
+    },
+    {
+      "name": "春季茶葉",
+      "season": "春",
+      "days": 9,
+      "regrow": "?",
+      "harvest": 5,
+      "price": 70,
+      "continuous": "Y",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "夏季茶葉",
+      "season": "夏",
+      "days": 9,
+      "regrow": 11,
+      "harvest": 5,
+      "price": 70,
+      "continuous": "Y",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "秋季茶葉",
+      "season": "秋",
+      "days": 9,
+      "regrow": "?",
+      "harvest": 5,
+      "price": 70,
+      "continuous": "Y",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "粉蝶花",
+      "season": "春",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 145,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "三色堇",
+      "season": "春",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 175,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "陸蓮花",
+      "season": "春",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 200,
+      "continuous": "",
+      "seasons": [
+        "春"
+      ]
+    },
+    {
+      "name": "扶桑花",
+      "season": "夏",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 150,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "矮牽牛",
+      "season": "夏",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 165,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "萬壽菊",
+      "season": "夏",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 250,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "向日葵",
+      "season": "夏",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 300,
+      "continuous": "",
+      "seasons": [
+        "夏"
+      ]
+    },
+    {
+      "name": "玫瑰",
+      "season": "秋",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 180,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "菊花",
+      "season": "秋",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 250,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "鐵線蓮",
+      "season": "秋",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 195,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "瑪格麗特",
+      "season": "秋",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 250,
+      "continuous": "",
+      "seasons": [
+        "秋"
+      ]
+    },
+    {
+      "name": "富貴菊",
+      "season": "冬",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 290,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "報春花",
+      "season": "冬",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 135,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "秋海棠",
+      "season": "冬",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 180,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    },
+    {
+      "name": "風鈴草",
+      "season": "冬",
+      "days": 3,
+      "regrow": "",
+      "harvest": "",
+      "price": 220,
+      "continuous": "",
+      "seasons": [
+        "冬"
+      ]
+    }
+  ],
+  "processed": [
+    {
+      "name": "夏季太陽",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "粉紅鑽 *5",
+        "鑽石 *10",
+        "傳說寶箱 *3",
+        "古代魚類化石 *3",
+        "星砂瓶 *3"
+      ]
+    },
+    {
+      "name": "灑水器",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": 10000,
+      "materials": [
+        "黃金 *5",
+        "銀 *10",
+        "銅 *20",
+        "鐵礦石 *30"
+      ]
+    },
+    {
+      "name": "綜合醃漬蔬菜",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 4104,
+      "materials": [
+        "醃漬蕪菁 *1",
+        "醃漬馬鈴薯 *1",
+        "醃漬洋蔥 *1",
+        "醃漬櫻桃蘿蔔 *1"
+      ]
+    },
+    {
+      "name": "特調香水",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 8365,
+      "materials": [
+        "柑橘調香水 *1",
+        "草本調香水 *1",
+        "花香香水 *1",
+        "紅茶香水 *1"
+      ]
+    },
+    {
+      "name": "肥料",
+      "windmill": "紅色風車",
+      "category": "肥料",
+      "price": 20,
+      "materials": [
+        "雜草 *2"
+      ]
+    },
+    {
+      "name": "肥料",
+      "windmill": "紅色風車",
+      "category": "肥料",
+      "price": 20,
+      "materials": [
+        "腐爛的東西 *1"
+      ]
+    },
+    {
+      "name": "起司",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 500,
+      "materials": [
+        "牛奶 or 水牛奶 *1"
+      ]
+    },
+    {
+      "name": "奶油",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 400,
+      "materials": [
+        "牛奶 or 水牛奶 *1"
+      ]
+    },
+    {
+      "name": "優格",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 600,
+      "materials": [
+        "牛奶 or 水牛奶 *1"
+      ]
+    },
+    {
+      "name": "美乃滋",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "雞蛋 or 烏骨雞蛋 *1"
+      ]
+    },
+    {
+      "name": "石材",
+      "windmill": "紅色風車",
+      "category": "材料",
+      "price": 100,
+      "materials": [
+        "石頭 *5"
+      ]
+    },
+    {
+      "name": "木材",
+      "windmill": "紅色風車",
+      "category": "材料",
+      "price": 100,
+      "materials": [
+        "木片 *5"
+      ]
+    },
+    {
+      "name": "銅鋤頭",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "鋤頭",
+        "銅 *1",
+        "鐵礦石 *1",
+        "木材 *2"
+      ]
+    },
+    {
+      "name": "改良型銅鋤頭",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銅鋤頭",
+        "銅 *3",
+        "鐵礦石 *5"
+      ]
+    },
+    {
+      "name": "銀鋤頭",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型銅鋤頭",
+        "銀 *3",
+        "木材 *4"
+      ]
+    },
+    {
+      "name": "銅澆水器",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "澆水器",
+        "銅 *3",
+        "鐵礦石 *1"
+      ]
+    },
+    {
+      "name": "改良型銅澆水器",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銅澆水器",
+        "銅 *3",
+        "鐵礦石 *5"
+      ]
+    },
+    {
+      "name": "銀澆水器",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型銅澆水器",
+        "銀 *6"
+      ]
+    },
+    {
+      "name": "銅鐮刀",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "鐮刀",
+        "銅 *2",
+        "鐵礦石 *1",
+        "木材 *2"
+      ]
+    },
+    {
+      "name": "改良型銅鐮刀",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銅鐮刀",
+        "銅 *3",
+        "鐵礦石 *5"
+      ]
+    },
+    {
+      "name": "銀鐮刀",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型銅鐮刀",
+        "銀 *5",
+        "木材 *1"
+      ]
+    },
+    {
+      "name": "銅釣竿",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "釣竿",
+        "銅 *1",
+        "木材 *3"
+      ]
+    },
+    {
+      "name": "改良型銅釣竿",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銅釣竿",
+        "銅 *3",
+        "鐵礦石 *5"
+      ]
+    },
+    {
+      "name": "銀釣竿",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型銅釣竿",
+        "銀 *2",
+        "木材 *10"
+      ]
+    },
+    {
+      "name": "銅製輕便斧頭",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "輕便斧頭",
+        "銅 *3",
+        "鐵礦石 *10",
+        "木材 *2"
+      ]
+    },
+    {
+      "name": "銀製輕便斧頭",
+      "windmill": "紅色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銅製輕便斧頭",
+        "銀 *5",
+        "鐵礦石 *20",
+        "木材 *4"
+      ]
+    },
+    {
+      "name": "風車圖案帳篷",
+      "windmill": "紅色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "石材 *10",
+        "木材 *10",
+        "鐵礦石 *20",
+        "溫暖色調染料 *3"
+      ]
+    },
+    {
+      "name": "發酵槽",
+      "windmill": "紅色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "石材 *10",
+        "鐵礦石 *30"
+      ]
+    },
+    {
+      "name": "飾品展示台",
+      "windmill": "紅色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "木材 *5",
+        "黑色項鍊 *1",
+        "黃綠色胸針 *1"
+      ]
+    },
+    {
+      "name": "黑色項鍊",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 2376,
+      "materials": [
+        "月亮石 *1",
+        "銀 *1"
+      ]
+    },
+    {
+      "name": "黃綠色胸針",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 3036,
+      "materials": [
+        "橄欖石 *1",
+        "銀 *1"
+      ]
+    },
+    {
+      "name": "羊毛線團",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 700,
+      "materials": [
+        "綿羊毛 *2"
+      ]
+    },
+    {
+      "name": "薩福克毛線團",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 875,
+      "materials": [
+        "薩福克羊毛 *2"
+      ]
+    },
+    {
+      "name": "羊駝毛線團",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 875,
+      "materials": [
+        "羊駝毛 *2"
+      ]
+    },
+    {
+      "name": "茶色羊駝毛線團",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 1050,
+      "materials": [
+        "茶色羊駝毛 *2"
+      ]
+    },
+    {
+      "name": "溫暖色調染料",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 360,
+      "materials": [
+        "陸蓮花 or 粉色貓薄荷 or 扶桑花 or 魔法紅草 or 玫瑰 *3"
+      ]
+    },
+    {
+      "name": "沁涼色調染料",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 360,
+      "materials": [
+        "魔法藍草 or 粉蝶花 or 富貴菊 *3"
+      ]
+    },
+    {
+      "name": "自然色調染料",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 300,
+      "materials": [
+        "三色花 or 月落草 or 三色堇 or 萬壽菊 or 向日葵 or 菊花 *3"
+      ]
+    },
+    {
+      "name": "高貴色調染料",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 810,
+      "materials": [
+        "鐵線蓮 or 報春花 or 風鈴草 *3"
+      ]
+    },
+    {
+      "name": "優雅色調染料",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 990,
+      "materials": [
+        "矮牽牛 or 瑪格麗特 *3"
+      ]
+    },
+    {
+      "name": "草本調香水",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 176,
+      "materials": [
+        "薄荷 or 洋甘菊 or 薰衣草 *3"
+      ]
+    },
+    {
+      "name": "花香香水",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 384,
+      "materials": [
+        "三色花 or 月落草 or 魔法藍草 or 粉色貓薄荷 or 魔法紅草 *3"
+      ]
+    },
+    {
+      "name": "柑橘調香水",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 824,
+      "materials": [
+        "柳橙 *1",
+        "鳳梨 *1"
+      ]
+    },
+    {
+      "name": "紅茶香水",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 1709,
+      "materials": [
+        "柑橘調香水 *1",
+        "紅茶 *1"
+      ]
+    },
+    {
+      "name": "春季花束",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 999,
+      "materials": [
+        "粉蝶花 *1",
+        "三色堇 *1",
+        "陸蓮花 *1"
+      ]
+    },
+    {
+      "name": "夏季花束",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 1085,
+      "materials": [
+        "扶桑花 *1",
+        "矮牽牛 *1",
+        "萬壽菊 *1"
+      ]
+    },
+    {
+      "name": "秋季花束",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 1239,
+      "materials": [
+        "玫瑰 *1",
+        "鐵線蓮 *1",
+        "瑪格麗特 *1"
+      ]
+    },
+    {
+      "name": "冬季花束",
+      "windmill": "紅色風車",
+      "category": "禮物",
+      "price": 1344,
+      "materials": [
+        "報春花 *1",
+        "秋海棠 *1",
+        "風鈴草 *1"
+      ]
+    },
+    {
+      "name": "醃漬蕪菁",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 599,
+      "materials": [
+        "蕪菁 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬馬鈴薯",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 352,
+      "materials": [
+        "馬鈴薯 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬洋蔥",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 687,
+      "materials": [
+        "洋蔥 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬櫻桃蘿蔔",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 335,
+      "materials": [
+        "櫻桃蘿蔔 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "味噌",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 130,
+      "materials": [
+        "豆子 *1"
+      ]
+    },
+    {
+      "name": "醬油",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 130,
+      "materials": [
+        "豆子 *1"
+      ]
+    },
+    {
+      "name": "醋",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 140,
+      "materials": [
+        "稻米 *1"
+      ]
+    },
+    {
+      "name": "鹽",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "岩鹽 *1"
+      ]
+    },
+    {
+      "name": "砂糖",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "甘蔗 *1"
+      ]
+    },
+    {
+      "name": "胡椒",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "胡椒果實 *1"
+      ]
+    },
+    {
+      "name": "麵粉",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 150,
+      "materials": [
+        "小麥 *1"
+      ]
+    },
+    {
+      "name": "米穀粉",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 140,
+      "materials": [
+        "稻米 *1"
+      ]
+    },
+    {
+      "name": "黃豆粉",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 130,
+      "materials": [
+        "豆子 *1"
+      ]
+    },
+    {
+      "name": "麵包粉",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 258,
+      "materials": [
+        "麵包 *1"
+      ]
+    },
+    {
+      "name": "瓶裝核桃",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "核桃 *1"
+      ]
+    },
+    {
+      "name": "瓶裝栗子",
+      "windmill": "紅色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "栗子 *1"
+      ]
+    },
+    {
+      "name": "雞飼料",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 100,
+      "materials": [
+        "乾草飼料 *1"
+      ]
+    },
+    {
+      "name": "馬用餅乾",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 495,
+      "materials": [
+        "小麥 *1"
+      ]
+    },
+    {
+      "name": "犬貓飼料",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 90,
+      "materials": [
+        "小麥 *1",
+        "胡蘿蔔 *1"
+      ]
+    },
+    {
+      "name": "犬貓玩具棒",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 284,
+      "materials": [
+        "豆子 *1",
+        "柳根魚 or 珠星三塊魚 or 日本溪哥 or 鈍頭杜父魚 or 特式東瀛鯉 or 黑腹鱊 or 長頜鬚鮈 or 虹鱒 or 鰱魚 or 博士巨鯰 *1"
+      ]
+    },
+    {
+      "name": "防風工具組",
+      "windmill": "紅色風車",
+      "category": "其他",
+      "price": 936,
+      "materials": [
+        "木材 *1",
+        "石材 *1",
+        "鐵礦石 *3"
+      ]
+    },
+    {
+      "name": "秋季太陽",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "粉紅鑽 *5",
+        "鑽石 *10",
+        "黃金青江菜 or 黃金白菜 or 黃金草莓 or 黃金大蒜 or 黃金橄欖 or 黃金香蕉 or 黃金桃子 or 黃金蘋果 or 黃金咖啡豆 or 黃金可可豆 *10",
+        "頂級牛奶 or 頂級水牛奶 *10",
+        "頂級蛋 or 頂級烏骨雞蛋 *10"
+      ]
+    },
+    {
+      "name": "銅製紀念幣",
+      "windmill": "藍色風車",
+      "category": "其他",
+      "price": 300,
+      "materials": [
+        "紀念幣 *1",
+        "銅 *1"
+      ]
+    },
+    {
+      "name": "銀製紀念幣",
+      "windmill": "藍色風車",
+      "category": "其他",
+      "price": 500,
+      "materials": [
+        "銅製紀念幣 *1",
+        "銀 *1"
+      ]
+    },
+    {
+      "name": "金製紀念幣",
+      "windmill": "藍色風車",
+      "category": "其他",
+      "price": 1500,
+      "materials": [
+        "銀製紀念幣 *1",
+        "黃金 *1"
+      ]
+    },
+    {
+      "name": "水中霸主釣餌",
+      "windmill": "藍色風車",
+      "category": "其他",
+      "price": 1000,
+      "materials": [
+        "釣餌原料 *1",
+        "雜草 *4",
+        "魚骨頭 *1"
+      ]
+    },
+    {
+      "name": "肥料",
+      "windmill": "藍色風車",
+      "category": "肥料",
+      "price": 20,
+      "materials": [
+        "雜草 *2"
+      ]
+    },
+    {
+      "name": "肥料",
+      "windmill": "藍色風車",
+      "category": "肥料",
+      "price": 20,
+      "materials": [
+        "腐爛的東西 *1"
+      ]
+    },
+    {
+      "name": "香草起司",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 750,
+      "materials": [
+        "牛奶 or 水牛奶 *1",
+        "薄荷 or 洋甘菊 or 薰衣草 *1"
+      ]
+    },
+    {
+      "name": "香草奶油",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 600,
+      "materials": [
+        "牛奶 or 水牛奶 *1",
+        "薄荷 or 洋甘菊 or 薰衣草 *1"
+      ]
+    },
+    {
+      "name": "果實優格",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 1200,
+      "materials": [
+        "優格 *1",
+        "薄荷 *1",
+        "草莓 *1"
+      ]
+    },
+    {
+      "name": "香草美乃滋",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 450,
+      "materials": [
+        "美乃滋 *1",
+        "薄荷 or 洋甘菊 or 薰衣草 *1"
+      ]
+    },
+    {
+      "name": "堅固石材",
+      "windmill": "藍色風車",
+      "category": "材料",
+      "price": 500,
+      "materials": [
+        "石材 *5"
+      ]
+    },
+    {
+      "name": "堅固木材",
+      "windmill": "藍色風車",
+      "category": "材料",
+      "price": 500,
+      "materials": [
+        "木材 *5"
+      ]
+    },
+    {
+      "name": "改良型銀鋤頭",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銀鋤頭",
+        "銀 *5",
+        "鐵礦石 *10"
+      ]
+    },
+    {
+      "name": "金鋤頭",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型銀鋤頭",
+        "黃金 *3",
+        "堅固木材 *4"
+      ]
+    },
+    {
+      "name": "改良型金鋤頭",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "金鋤頭",
+        "黃金 *8",
+        "鐵礦石 *20"
+      ]
+    },
+    {
+      "name": "改良型銀澆水器",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銀澆水器",
+        "銀 *5",
+        "鐵礦石 *10"
+      ]
+    },
+    {
+      "name": "金澆水器",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型銀澆水器",
+        "黃金 *6"
+      ]
+    },
+    {
+      "name": "改良型金澆水器",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "金澆水器",
+        "黃金 *8",
+        "鐵礦石 *20"
+      ]
+    },
+    {
+      "name": "改良型銀鐮刀",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銀鐮刀",
+        "銀 *5",
+        "鐵礦石 *10"
+      ]
+    },
+    {
+      "name": "金鐮刀",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型銀鐮刀",
+        "黃金 *5",
+        "堅固木材 *2"
+      ]
+    },
+    {
+      "name": "改良型金鐮刀",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "金鐮刀",
+        "黃金 *8",
+        "鐵礦石 *20"
+      ]
+    },
+    {
+      "name": "金製輕便斧頭",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銀製輕便斧頭",
+        "黃金 *5",
+        "鐵礦石 *50",
+        "堅固木材 *4"
+      ]
+    },
+    {
+      "name": "改良型銀釣竿",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "銀釣竿",
+        "銀 *5",
+        "鐵礦石 *10"
+      ]
+    },
+    {
+      "name": "金釣竿",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型銀釣竿",
+        "黃金 *2",
+        "堅固木材 *10"
+      ]
+    },
+    {
+      "name": "改良型金釣竿",
+      "windmill": "藍色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "金釣竿",
+        "黃金 *8",
+        "鐵礦石 *20"
+      ]
+    },
+    {
+      "name": "優質的風車圖案帳篷",
+      "windmill": "藍色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "堅固石材 *10",
+        "堅固木材 *10",
+        "銀 *20",
+        "溫暖色調染料 *5",
+        "自然色調染料 *5"
+      ]
+    },
+    {
+      "name": "純白的發酵槽",
+      "windmill": "藍色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "堅固石材 *10",
+        "銀 *10"
+      ]
+    },
+    {
+      "name": "閃亮的飾品展示台",
+      "windmill": "藍色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "堅固木材 *5",
+        "紫色項鍊 *2",
+        "黃色胸針 *2",
+        "綠色胸針 *2",
+        "紫色胸針 *2"
+      ]
+    },
+    {
+      "name": "紫色項鍊",
+      "windmill": "藍色風車",
+      "category": "禮物",
+      "price": 4752,
+      "materials": [
+        "紫水晶 *1",
+        "銀 *1",
+        "銅 *1"
+      ]
+    },
+    {
+      "name": "黃色胸針",
+      "windmill": "藍色風車",
+      "category": "禮物",
+      "price": 5472,
+      "materials": [
+        "黃玉 *1",
+        "銀 *1",
+        "銅 *1"
+      ]
+    },
+    {
+      "name": "綠色胸針",
+      "windmill": "藍色風車",
+      "category": "禮物",
+      "price": 6192,
+      "materials": [
+        "祖母綠 *1",
+        "銀 *1",
+        "銅 *1"
+      ]
+    },
+    {
+      "name": "紫色胸針",
+      "windmill": "藍色風車",
+      "category": "禮物",
+      "price": 4752,
+      "materials": [
+        "紫水晶 *1",
+        "銀 *1",
+        "銅 *1"
+      ]
+    },
+    {
+      "name": "紫色手鍊",
+      "windmill": "藍色風車",
+      "category": "禮物",
+      "price": 6912,
+      "materials": [
+        "紫水晶 *1",
+        "黃金 *1",
+        "銀 *1"
+      ]
+    },
+    {
+      "name": "綠色手鍊",
+      "windmill": "藍色風車",
+      "category": "禮物",
+      "price": 8352,
+      "materials": [
+        "祖母綠 *1",
+        "黃金 *1",
+        "銀 *1"
+      ]
+    },
+    {
+      "name": "蜂蜜",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "巢蜜 *1"
+      ]
+    },
+    {
+      "name": "清爽蜂蜜",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 500,
+      "materials": [
+        "清爽巢蜜 *1"
+      ]
+    },
+    {
+      "name": "滑順蜂蜜",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 800,
+      "materials": [
+        "滑順巢蜜 *1"
+      ]
+    },
+    {
+      "name": "皇家蜂蜜",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 1600,
+      "materials": [
+        "皇家巢蜜 *1"
+      ]
+    },
+    {
+      "name": "小型魚類釣餌",
+      "windmill": "藍色風車",
+      "category": "其他",
+      "price": 200,
+      "materials": [
+        "釣餌原料 *1",
+        "雜草 *1"
+      ]
+    },
+    {
+      "name": "中型魚類釣餌",
+      "windmill": "藍色風車",
+      "category": "其他",
+      "price": 300,
+      "materials": [
+        "釣餌原料 *1",
+        "雜草 *1",
+        "稻米 *1"
+      ]
+    },
+    {
+      "name": "大型魚類釣餌",
+      "windmill": "藍色風車",
+      "category": "其他",
+      "price": 500,
+      "materials": [
+        "釣餌原料 *1",
+        "雜草 *1",
+        "玉蜀黍 *1"
+      ]
+    },
+    {
+      "name": "醃漬南瓜",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 951,
+      "materials": [
+        "南瓜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬玉蜀黍",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 502,
+      "materials": [
+        "玉蜀黍 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬小黃瓜",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 317,
+      "materials": [
+        "小黃瓜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬茄子",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 335,
+      "materials": [
+        "茄子 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬甜椒",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 331,
+      "materials": [
+        "甜椒 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬青椒",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 331,
+      "materials": [
+        "青椒 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "堅果油",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 396,
+      "materials": [
+        "核桃 *1",
+        "油"
+      ]
+    },
+    {
+      "name": "香草油",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 432,
+      "materials": [
+        "薄荷 *1",
+        "洋甘菊 *1",
+        "油"
+      ]
+    },
+    {
+      "name": "橄欖油",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 423,
+      "materials": [
+        "橄欖 *1",
+        "油"
+      ]
+    },
+    {
+      "name": "南瓜籽油",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 555,
+      "materials": [
+        "南瓜種子 *1",
+        "油"
+      ]
+    },
+    {
+      "name": "葡萄籽油",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 495,
+      "materials": [
+        "葡萄 *1",
+        "油"
+      ]
+    },
+    {
+      "name": "糯米粉",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 420,
+      "materials": [
+        "年糕 *1"
+      ]
+    },
+    {
+      "name": "白麵包粉",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 274,
+      "materials": [
+        "白麵包 *1"
+      ]
+    },
+    {
+      "name": "蕎麥粉",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 420,
+      "materials": [
+        "蕎麥果實 *1"
+      ]
+    },
+    {
+      "name": "咖啡包",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 292,
+      "materials": [
+        "咖啡豆 *1"
+      ]
+    },
+    {
+      "name": "巧克力",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "可可豆 *1"
+      ]
+    },
+    {
+      "name": "年糕",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 300,
+      "materials": [
+        "米飯 *1"
+      ]
+    },
+    {
+      "name": "香辛料",
+      "windmill": "藍色風車",
+      "category": "食材",
+      "price": 260,
+      "materials": [
+        "辣椒 *1"
+      ]
+    },
+    {
+      "name": "蕪菁種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 110,
+      "materials": [
+        "蕪菁 *1"
+      ]
+    },
+    {
+      "name": "蘆筍種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 150,
+      "materials": [
+        "蘆筍 *1"
+      ]
+    },
+    {
+      "name": "高麗菜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 220,
+      "materials": [
+        "高麗菜 *1"
+      ]
+    },
+    {
+      "name": "馬鈴薯種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 100,
+      "materials": [
+        "馬鈴薯 *1"
+      ]
+    },
+    {
+      "name": "南瓜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 220,
+      "materials": [
+        "南瓜 *1"
+      ]
+    },
+    {
+      "name": "洋蔥種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 120,
+      "materials": [
+        "洋蔥 *1"
+      ]
+    },
+    {
+      "name": "櫻桃蘿蔔種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 90,
+      "materials": [
+        "櫻桃蘿蔔 *1"
+      ]
+    },
+    {
+      "name": "西瓜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 220,
+      "materials": [
+        "西瓜 *1"
+      ]
+    },
+    {
+      "name": "哈密瓜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 220,
+      "materials": [
+        "哈密瓜 *1"
+      ]
+    },
+    {
+      "name": "花椰菜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 220,
+      "materials": [
+        "花椰菜 *1"
+      ]
+    },
+    {
+      "name": "胡蘿蔔種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 170,
+      "materials": [
+        "胡蘿蔔 *1"
+      ]
+    },
+    {
+      "name": "菠菜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 180,
+      "materials": [
+        "菠菜 *1"
+      ]
+    },
+    {
+      "name": "辣椒種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 170,
+      "materials": [
+        "辣椒 *1"
+      ]
+    },
+    {
+      "name": "青江菜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 160,
+      "materials": [
+        "青江菜 *1"
+      ]
+    },
+    {
+      "name": "白蘿蔔種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 180,
+      "materials": [
+        "白蘿蔔 *1"
+      ]
+    },
+    {
+      "name": "白菜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 160,
+      "materials": [
+        "白菜 *1"
+      ]
+    },
+    {
+      "name": "青蔥種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 180,
+      "materials": [
+        "青蔥 *1"
+      ]
+    },
+    {
+      "name": "牛蒡種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 220,
+      "materials": [
+        "牛蒡 *1"
+      ]
+    },
+    {
+      "name": "草莓種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 180,
+      "materials": [
+        "草莓 *1"
+      ]
+    },
+    {
+      "name": "小黃瓜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 220,
+      "materials": [
+        "小黃瓜 *1"
+      ]
+    },
+    {
+      "name": "大蒜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 240,
+      "materials": [
+        "大蒜 *1"
+      ]
+    },
+    {
+      "name": "玉蜀黍種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 220,
+      "materials": [
+        "玉蜀黍 *1"
+      ]
+    },
+    {
+      "name": "番茄種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 200,
+      "materials": [
+        "番茄 *1"
+      ]
+    },
+    {
+      "name": "鳳梨種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 180,
+      "materials": [
+        "鳳梨 *1"
+      ]
+    },
+    {
+      "name": "番薯種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 260,
+      "materials": [
+        "番薯 *1"
+      ]
+    },
+    {
+      "name": "茄子種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 240,
+      "materials": [
+        "茄子 *1"
+      ]
+    },
+    {
+      "name": "甜椒種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 240,
+      "materials": [
+        "甜椒 *1"
+      ]
+    },
+    {
+      "name": "青椒種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 240,
+      "materials": [
+        "青椒 *1"
+      ]
+    },
+    {
+      "name": "綠花椰菜種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 280,
+      "materials": [
+        "綠花椰菜 *1"
+      ]
+    },
+    {
+      "name": "粉蝶花種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 90,
+      "materials": [
+        "粉蝶花 *1"
+      ]
+    },
+    {
+      "name": "三色堇種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 100,
+      "materials": [
+        "三色堇 *1"
+      ]
+    },
+    {
+      "name": "陸蓮花種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 100,
+      "materials": [
+        "陸蓮花 *1"
+      ]
+    },
+    {
+      "name": "扶桑花種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 110,
+      "materials": [
+        "扶桑花 *1"
+      ]
+    },
+    {
+      "name": "矮牽牛種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 110,
+      "materials": [
+        "矮牽牛 *1"
+      ]
+    },
+    {
+      "name": "萬壽菊種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 170,
+      "materials": [
+        "萬壽菊 *1"
+      ]
+    },
+    {
+      "name": "向日葵種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 200,
+      "materials": [
+        "向日葵 *1"
+      ]
+    },
+    {
+      "name": "玫瑰種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 125,
+      "materials": [
+        "玫瑰 *1"
+      ]
+    },
+    {
+      "name": "菊花種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 160,
+      "materials": [
+        "菊花 *1"
+      ]
+    },
+    {
+      "name": "鐵線蓮種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 120,
+      "materials": [
+        "鐵線蓮 *1"
+      ]
+    },
+    {
+      "name": "瑪格麗特種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 145,
+      "materials": [
+        "瑪格麗特 *1"
+      ]
+    },
+    {
+      "name": "富貴菊種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 200,
+      "materials": [
+        "富貴菊 *1"
+      ]
+    },
+    {
+      "name": "報春花種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 80,
+      "materials": [
+        "報春花 *1"
+      ]
+    },
+    {
+      "name": "秋海棠種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 120,
+      "materials": [
+        "秋海棠 *1"
+      ]
+    },
+    {
+      "name": "風鈴草種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 150,
+      "materials": [
+        "風鈴草 *1"
+      ]
+    },
+    {
+      "name": "稻米種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 110,
+      "materials": [
+        "稻米 *1"
+      ]
+    },
+    {
+      "name": "豆子種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 100,
+      "materials": [
+        "豆子 *1"
+      ]
+    },
+    {
+      "name": "小麥種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 110,
+      "materials": [
+        "小麥 *1"
+      ]
+    },
+    {
+      "name": "茶葉種子",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 100,
+      "materials": [
+        "春季茶葉 or 夏季茶葉 or 秋季茶葉 *1"
+      ]
+    },
+    {
+      "name": "香菇菌種",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 160,
+      "materials": [
+        "香菇 *1"
+      ]
+    },
+    {
+      "name": "鴻喜菇菌種",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 120,
+      "materials": [
+        "鴻喜菇 *1"
+      ]
+    },
+    {
+      "name": "洋菇菌種",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 200,
+      "materials": [
+        "洋菇 *1"
+      ]
+    },
+    {
+      "name": "牛肝菌菌種",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 240,
+      "materials": [
+        "牛肝菌 *1"
+      ]
+    },
+    {
+      "name": "羊肚菌菌種",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 240,
+      "materials": [
+        "羊肚菌 *1"
+      ]
+    },
+    {
+      "name": "松茸菌種",
+      "windmill": "藍色風車",
+      "category": "種子",
+      "price": 640,
+      "materials": [
+        "松茸 *1"
+      ]
+    },
+    {
+      "name": "冬季太陽",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "粉紅鑽 *5",
+        "鑽石 *10",
+        "紅寶石 *30",
+        "祖母綠 *30",
+        "紫水晶 *30"
+      ]
+    },
+    {
+      "name": "飛行石",
+      "windmill": "黃色風車",
+      "category": "其他",
+      "price": "",
+      "materials": [
+        "微風寶石",
+        "天空寶石",
+        "羽翼寶石"
+      ]
+    },
+    {
+      "name": "終極鋤頭",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "奧利哈鋼鋤頭",
+        "秘銀 *3",
+        "精金石 *1",
+        "奧利哈鋼 *9",
+        "最高級石材 *20"
+      ]
+    },
+    {
+      "name": "終極澆水器",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "奧利哈鋼澆水器",
+        "秘銀 *3",
+        "精金石 *1",
+        "奧利哈鋼 *15"
+      ]
+    },
+    {
+      "name": "終極鐮刀",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "奧利哈鋼鐮刀",
+        "秘銀 *3",
+        "精金石 *1",
+        "奧利哈鋼 *12",
+        "最高級石材 *15"
+      ]
+    },
+    {
+      "name": "終極釣竿",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "奧利哈鋼釣竿",
+        "秘銀 *3",
+        "精金石 *1",
+        "奧利哈鋼 *6",
+        "最高級木材 *40"
+      ]
+    },
+    {
+      "name": "終極輕便斧頭",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "奧利哈鋼製輕便斧頭",
+        "秘銀 *3",
+        "精金石 *1",
+        "奧利哈鋼 *15",
+        "最高級木材 *20"
+      ]
+    },
+    {
+      "name": "粉紅胸針",
+      "windmill": "黃色風車",
+      "category": "禮物",
+      "price": 55776,
+      "materials": [
+        "粉紅鑽 *1",
+        "銀 *4"
+      ]
+    },
+    {
+      "name": "閃耀手鐲",
+      "windmill": "黃色風車",
+      "category": "禮物",
+      "price": 30240,
+      "materials": [
+        "鑽石 *1",
+        "黃金 *4"
+      ]
+    },
+    {
+      "name": "春色特調紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 858,
+      "materials": [
+        "秋天茶葉 *2",
+        "櫻桃 *1",
+        "薄荷 *1"
+      ]
+    },
+    {
+      "name": "夏色特調紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 858,
+      "materials": [
+        "秋天茶葉 *2",
+        "桃子 *1",
+        "洋甘菊 *1"
+      ]
+    },
+    {
+      "name": "秋色特調紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 968,
+      "materials": [
+        "秋天茶葉 *2",
+        "麝香葡萄 *1",
+        "薰衣草 *1"
+      ]
+    },
+    {
+      "name": "黃金特調紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 7665,
+      "materials": [
+        "春色特調紅茶罐 *1",
+        "夏色特調紅茶罐 *1",
+        "秋色特調紅茶罐 *1",
+        "薰衣草紅茶罐 *1"
+      ]
+    },
+    {
+      "name": "肥料",
+      "windmill": "黃色風車",
+      "category": "肥料",
+      "price": 20,
+      "materials": [
+        "雜草 *2"
+      ]
+    },
+    {
+      "name": "肥料",
+      "windmill": "黃色風車",
+      "category": "肥料",
+      "price": 20,
+      "materials": [
+        "腐爛的東西 *1"
+      ]
+    },
+    {
+      "name": "頂級起司",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 1600,
+      "materials": [
+        "頂級牛奶 *1"
+      ]
+    },
+    {
+      "name": "頂級奶油",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 1400,
+      "materials": [
+        "頂級牛奶 *1"
+      ]
+    },
+    {
+      "name": "頂級優格",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 1800,
+      "materials": [
+        "頂級水牛奶 *1"
+      ]
+    },
+    {
+      "name": "頂級美乃滋",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 1500,
+      "materials": [
+        "頂級蛋 or 頂級烏骨雞蛋 *1"
+      ]
+    },
+    {
+      "name": "最高級石材",
+      "windmill": "黃色風車",
+      "category": "材料",
+      "price": 2500,
+      "materials": [
+        "堅固石材 *5"
+      ]
+    },
+    {
+      "name": "最高級木材",
+      "windmill": "黃色風車",
+      "category": "材料",
+      "price": 2500,
+      "materials": [
+        "堅固木材 *5"
+      ]
+    },
+    {
+      "name": "奧利哈鋼鋤頭",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型金鋤頭",
+        "奧利哈鋼 *6",
+        "最高級木材 *8"
+      ]
+    },
+    {
+      "name": "奧利哈鋼澆水器",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型金澆水器",
+        "奧利哈鋼 *12"
+      ]
+    },
+    {
+      "name": "奧利哈鋼鐮刀",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型金鐮刀",
+        "奧利哈鋼 *9",
+        "最高級木材 *4"
+      ]
+    },
+    {
+      "name": "奧利哈鋼釣竿",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型金釣竿",
+        "奧利哈鋼 *3",
+        "最高級木材 *20"
+      ]
+    },
+    {
+      "name": "奧利哈鋼製輕便斧頭",
+      "windmill": "黃色風車",
+      "category": "工具",
+      "price": "",
+      "materials": [
+        "改良型金製輕便斧頭",
+        "奧利哈鋼 *8",
+        "鐵礦石 *99",
+        "最高級木材 *10"
+      ]
+    },
+    {
+      "name": "氣派的風車圖案帳篷",
+      "windmill": "黃色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "最高級石材 *10",
+        "最高級木材 *10",
+        "奧利哈鋼 *10",
+        "沁涼色調染料 *10",
+        "優雅色調染料 *10"
+      ]
+    },
+    {
+      "name": "閃耀的發酵槽",
+      "windmill": "黃色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "最高級石材 *30",
+        "鐵礦石 *30",
+        "鑽石 *5"
+      ]
+    },
+    {
+      "name": "耀眼的飾品展示台",
+      "windmill": "黃色風車",
+      "category": "市集擺設",
+      "price": "",
+      "materials": [
+        "最高級木材 *10",
+        "紫色手鍊 *3",
+        "綠色手鍊 *3",
+        "紅色項鍊 *3",
+        "紅色胸針 *3"
+      ]
+    },
+    {
+      "name": "紅色項鍊",
+      "windmill": "黃色風車",
+      "category": "禮物",
+      "price": 10656,
+      "materials": [
+        "紅寶石 *1",
+        "銀 *3",
+        "銅 *2"
+      ]
+    },
+    {
+      "name": "紅色胸針",
+      "windmill": "黃色風車",
+      "category": "禮物",
+      "price": 10224,
+      "materials": [
+        "紅寶石 *1",
+        "銀 *2",
+        "銅 *3"
+      ]
+    },
+    {
+      "name": "頂級羊毛線團",
+      "windmill": "黃色風車",
+      "category": "其他",
+      "price": 2100,
+      "materials": [
+        "頂級綿羊毛 *2"
+      ]
+    },
+    {
+      "name": "頂級薩福克毛線團",
+      "windmill": "黃色風車",
+      "category": "其他",
+      "price": 2625,
+      "materials": [
+        "頂級薩福克羊毛 *2"
+      ]
+    },
+    {
+      "name": "頂級羊駝毛線團",
+      "windmill": "黃色風車",
+      "category": "其他",
+      "price": 2625,
+      "materials": [
+        "頂級羊駝毛 *2"
+      ]
+    },
+    {
+      "name": "頂級茶色羊駝毛線團",
+      "windmill": "黃色風車",
+      "category": "其他",
+      "price": 3150,
+      "materials": [
+        "頂級茶色羊駝毛 *2"
+      ]
+    },
+    {
+      "name": "醃漬蘆筍",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 775,
+      "materials": [
+        "蘆筍 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬高麗菜",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 1074,
+      "materials": [
+        "高麗菜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬花椰菜",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 1004,
+      "materials": [
+        "花椰菜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬胡蘿蔔",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 775,
+      "materials": [
+        "胡蘿蔔 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬菠菜",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 748,
+      "materials": [
+        "菠菜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬辣椒",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 484,
+      "materials": [
+        "辣椒 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬青江菜",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 599,
+      "materials": [
+        "青江菜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬白蘿蔔",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 740,
+      "materials": [
+        "白蘿蔔 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬白菜",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 845,
+      "materials": [
+        "白菜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬青蔥",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 379,
+      "materials": [
+        "青蔥 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬牛蒡",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 520,
+      "materials": [
+        "牛蒡 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬大蒜",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 458,
+      "materials": [
+        "大蒜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬番薯",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 520,
+      "materials": [
+        "番薯 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "醃漬綠花椰菜",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 326,
+      "materials": [
+        "綠花椰菜 *1",
+        "醋 *1"
+      ]
+    },
+    {
+      "name": "綠茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 140,
+      "materials": [
+        "春季茶葉 *1"
+      ]
+    },
+    {
+      "name": "抹茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 280,
+      "materials": [
+        "綠茶罐 *1"
+      ]
+    },
+    {
+      "name": "煎茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 308,
+      "materials": [
+        "春季茶葉 *1",
+        "夏季茶葉 *1"
+      ]
+    },
+    {
+      "name": "普洱茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 308,
+      "materials": [
+        "夏季茶葉 *2"
+      ]
+    },
+    {
+      "name": "烏龍茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 308,
+      "materials": [
+        "夏季茶葉 *1",
+        "秋季茶葉 *1"
+      ]
+    },
+    {
+      "name": "紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 308,
+      "materials": [
+        "秋季茶葉 *2"
+      ]
+    },
+    {
+      "name": "草莓紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 418,
+      "materials": [
+        "秋季茶葉 *1",
+        "草莓 *1"
+      ]
+    },
+    {
+      "name": "橄欖紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 418,
+      "materials": [
+        "秋季茶葉 *1",
+        "橄欖 *1"
+      ]
+    },
+    {
+      "name": "鳳梨紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 880,
+      "materials": [
+        "秋季茶葉 *1",
+        "鳳梨 *1"
+      ]
+    },
+    {
+      "name": "香蕉紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 594,
+      "materials": [
+        "秋季茶葉 *1",
+        "香蕉 *1"
+      ]
+    },
+    {
+      "name": "藍莓紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 429,
+      "materials": [
+        "秋季茶葉 *1",
+        "藍莓 *1"
+      ]
+    },
+    {
+      "name": "桃子紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 462,
+      "materials": [
+        "秋季茶葉 *1",
+        "桃子 *1"
+      ]
+    },
+    {
+      "name": "西瓜紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 1342,
+      "materials": [
+        "秋季茶葉 *1",
+        "西瓜 *1"
+      ]
+    },
+    {
+      "name": "哈密瓜紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 1188,
+      "materials": [
+        "秋季茶葉 *1",
+        "哈密瓜 *1"
+      ]
+    },
+    {
+      "name": "檸檬紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 451,
+      "materials": [
+        "秋季茶葉 *1",
+        "檸檬 *1"
+      ]
+    },
+    {
+      "name": "芒果紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 594,
+      "materials": [
+        "秋季茶葉 *1",
+        "芒果 *1"
+      ]
+    },
+    {
+      "name": "葡萄紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 539,
+      "materials": [
+        "秋季茶葉 *1",
+        "葡萄 *1"
+      ]
+    },
+    {
+      "name": "柳橙紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 458,
+      "materials": [
+        "秋季茶葉 *1",
+        "柳橙 *1"
+      ]
+    },
+    {
+      "name": "櫻桃紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 462,
+      "materials": [
+        "秋季茶葉 *1",
+        "櫻桃 *1"
+      ]
+    },
+    {
+      "name": "麝香葡萄紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 555,
+      "materials": [
+        "秋季茶葉 *1",
+        "麝香葡萄 *1"
+      ]
+    },
+    {
+      "name": "蘋果紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 528,
+      "materials": [
+        "秋季茶葉 *1",
+        "蘋果 *1"
+      ]
+    },
+    {
+      "name": "薄荷紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 264,
+      "materials": [
+        "秋季茶葉 *1",
+        "薄荷 *1"
+      ]
+    },
+    {
+      "name": "洋甘菊紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 264,
+      "materials": [
+        "秋季茶葉 *1",
+        "洋甘菊 *1"
+      ]
+    },
+    {
+      "name": "薰衣草紅茶罐",
+      "windmill": "黃色風車",
+      "category": "食材",
+      "price": 264,
+      "materials": [
+        "秋季茶葉 *1",
+        "薰衣草 *1"
+      ]
+    },
+    {
+      "name": "橄欖幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 650,
+      "materials": [
+        "橄欖 *1"
+      ]
+    },
+    {
+      "name": "咖啡幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 600,
+      "materials": [
+        "咖啡 *1"
+      ]
+    },
+    {
+      "name": "酪梨幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 800,
+      "materials": [
+        "酪梨 *1"
+      ]
+    },
+    {
+      "name": "柳橙幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 850,
+      "materials": [
+        "柳橙 *1"
+      ]
+    },
+    {
+      "name": "櫻桃幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 500,
+      "materials": [
+        "櫻桃 *1"
+      ]
+    },
+    {
+      "name": "香蕉幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 600,
+      "materials": [
+        "香蕉 *1"
+      ]
+    },
+    {
+      "name": "桃子幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 860,
+      "materials": [
+        "桃子 *1"
+      ]
+    },
+    {
+      "name": "杏仁幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 650,
+      "materials": [
+        "杏仁 *1"
+      ]
+    },
+    {
+      "name": "檸檬幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 740,
+      "materials": [
+        "檸檬 *1"
+      ]
+    },
+    {
+      "name": "芒果幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 1200,
+      "materials": [
+        "芒果 *1"
+      ]
+    },
+    {
+      "name": "可可豆幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 600,
+      "materials": [
+        "可可豆 *1"
+      ]
+    },
+    {
+      "name": "葡萄幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 900,
+      "materials": [
+        "葡萄 *1"
+      ]
+    },
+    {
+      "name": "藍莓幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 680,
+      "materials": [
+        "藍莓 *1"
+      ]
+    },
+    {
+      "name": "麝香葡萄幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 1000,
+      "materials": [
+        "麝香葡萄 *1"
+      ]
+    },
+    {
+      "name": "蘋果幼苗",
+      "windmill": "黃色風車",
+      "category": "種子",
+      "price": 850,
+      "materials": [
+        "蘋果 *1"
+      ]
+    }
+  ],
+  "cooking": [
+    {
+      "name": "通心粉沙拉",
+      "category": "沙拉料理",
+      "price": 1859,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV4",
+      "materials": [
+        "義大利麵",
+        "小黃瓜",
+        "美乃滋 or 香草美乃滋 or 頂級美乃滋",
+        "胡蘿蔔"
+      ],
+      "ingenuity": [
+        "筆管義大利麵 or 香草義大利麵 or 洋蔥 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "酪梨醬風沙拉",
+      "category": "沙拉料理",
+      "price": 1309,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV3",
+      "materials": [
+        "酪梨",
+        "洋蔥",
+        "番茄",
+        "鹽"
+      ],
+      "ingenuity": [
+        "檸檬 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "日式炒牛蒡",
+      "category": "沙拉料理",
+      "price": 909,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV2",
+      "materials": [
+        "牛蒡",
+        "胡蘿蔔",
+        "辣椒"
+      ],
+      "ingenuity": [
+        "砂糖 or 醬油 or 油"
+      ]
+    },
+    {
+      "name": "醃漬甜椒",
+      "category": "沙拉料理",
+      "price": 598,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV2",
+      "materials": [
+        "甜椒",
+        "醋",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "櫻桃蘿蔔 or 洋蔥 or 橄欖油 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "綜合沙拉",
+      "category": "沙拉料理",
+      "price": 404,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV1",
+      "materials": [
+        "番茄",
+        "小黃瓜",
+        "小黃瓜 or 洋蔥 or 蘆筍 or 番茄 or 甜椒 or 胡蘿蔔 or 蕪菁 or 番薯 or 南瓜 or 茄子"
+      ],
+      "ingenuity": [
+        "酪梨 or 玉蜀黍 or 起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "蕪菁沙拉",
+      "category": "沙拉料理",
+      "price": 260,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV1",
+      "materials": [
+        "蕪菁"
+      ],
+      "ingenuity": [
+        "小黃瓜 or 番茄 or 甜椒"
+      ]
+    },
+    {
+      "name": "香草沙拉",
+      "category": "沙拉料理",
+      "price": 137,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV1",
+      "materials": [
+        "薄荷 or 洋甘菊 or 薰衣草",
+        "薄荷 or 洋甘菊 or 薰衣草"
+      ],
+      "ingenuity": [
+        "綠花椰菜 or 番茄 or 水煮蛋 or 橄欖油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "番茄沙拉",
+      "category": "沙拉料理",
+      "price": 126,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV1",
+      "materials": [
+        "番茄",
+        "薄荷 or 洋甘菊 or 薰衣草"
+      ],
+      "ingenuity": [
+        "小黃瓜 or 甜椒 or 起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "義式蕃茄沙拉",
+      "category": "沙拉料理",
+      "price": 2429,
+      "recovery": "少量",
+      "effect": "澆水後稀有農作物機率提升LV4",
+      "materials": [
+        "番茄",
+        "起司 or 香草起司 or 頂級起司",
+        "橄欖油",
+        "鹽"
+      ],
+      "ingenuity": [
+        "酪梨 or 長棍麵包 or 醬油 or 堅果油 or 香草油 or 南瓜籽油 or 葡萄籽油 or 鹽"
+      ]
+    },
+    {
+      "name": "夏威夷鮮魚沙拉",
+      "category": "沙拉料理",
+      "price": 1197,
+      "recovery": "少量",
+      "effect": "澆水後稀有農作物機率提升LV3",
+      "materials": [
+        "酪梨",
+        "鮭魚",
+        "醬油"
+      ],
+      "ingenuity": [
+        "洋蔥 or 青蔥 or 油"
+      ]
+    },
+    {
+      "name": "馬鈴薯泥",
+      "category": "沙拉料理",
+      "price": 677,
+      "recovery": "少量",
+      "effect": "澆水後稀有農作物機率提升LV2",
+      "materials": [
+        "馬鈴薯",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 薄荷 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "洋蔥沙拉",
+      "category": "沙拉料理",
+      "price": 325,
+      "recovery": "少量",
+      "effect": "澆水後稀有農作物機率提升LV1",
+      "materials": [
+        "洋蔥"
+      ],
+      "ingenuity": [
+        "小黃瓜 or 番茄 or 蕪菁"
+      ]
+    },
+    {
+      "name": "蘆筍濃湯",
+      "category": "湯類料理",
+      "price": 1728,
+      "recovery": "少量",
+      "effect": "釣竿耐久度提升LV4",
+      "materials": [
+        "蘆筍",
+        "牛奶 or 水牛奶",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油",
+        "洋蔥"
+      ],
+      "ingenuity": [
+        "牛肝菌 or 羊肚菌 or 鹽 or 胡椒 or 橄欖油 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "法式洋蔥湯",
+      "category": "湯類料理",
+      "price": 1024,
+      "recovery": "少量",
+      "effect": "釣竿耐久度提升LV3",
+      "materials": [
+        "洋蔥",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "大蒜 or 鹽 or 胡椒 or 長棍麵包"
+      ]
+    },
+    {
+      "name": "櫻桃蘿蔔濃湯",
+      "category": "湯類料理",
+      "price": 770,
+      "recovery": "少量",
+      "effect": "釣竿耐久度提升LV2",
+      "materials": [
+        "櫻桃蘿蔔",
+        "牛奶 or 水牛奶",
+        "鹽"
+      ],
+      "ingenuity": [
+        "洋蔥 or 奶油 or 香草奶油 or 頂級奶油 or 胡椒"
+      ]
+    },
+    {
+      "name": "味噌湯",
+      "category": "湯類料理",
+      "price": 260,
+      "recovery": "少量",
+      "effect": "釣竿耐久度提升LV1",
+      "materials": [
+        "味噌",
+        "豆腐 or 青蔥 or 炸豆皮 or 馬鈴薯 or 鴻喜菇"
+      ],
+      "ingenuity": [
+        "洋蔥 or 菠菜 or 白蘿蔔 or 茄子 or 鹽"
+      ]
+    },
+    {
+      "name": "玉米濃湯",
+      "category": "湯類料理",
+      "price": 1815,
+      "recovery": "少量",
+      "effect": "移動速度提升LV4",
+      "materials": [
+        "玉蜀黍",
+        "牛奶 or 水牛奶",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "洋蔥"
+      ],
+      "ingenuity": [
+        "馬鈴薯 or 蛋 or 烏骨雞蛋 or 鹽"
+      ]
+    },
+    {
+      "name": "南瓜濃湯",
+      "category": "湯類料理",
+      "price": 1320,
+      "recovery": "少量",
+      "effect": "移動速度提升LV3",
+      "materials": [
+        "南瓜",
+        "牛奶 or 水牛奶",
+        "洋蔥"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "維琪冷湯",
+      "category": "湯類料理",
+      "price": 709,
+      "recovery": "少量",
+      "effect": "移動速度提升LV2",
+      "materials": [
+        "馬鈴薯",
+        "洋蔥",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "西班牙冷湯",
+      "category": "湯類料理",
+      "price": 490,
+      "recovery": "少量",
+      "effect": "移動速度提升LV1",
+      "materials": [
+        "番茄",
+        "大蒜",
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏"
+      ],
+      "ingenuity": [
+        "小黃瓜 or 洋蔥 or 青椒 or 橄欖油 or 鹽"
+      ]
+    },
+    {
+      "name": "香草濃湯",
+      "category": "湯類料理",
+      "price": 137,
+      "recovery": "少量",
+      "effect": "移動速度提升LV1",
+      "materials": [
+        "薄荷 or 洋甘菊 or 薰衣草",
+        "薄荷 or 洋甘菊 or 薰衣草"
+      ],
+      "ingenuity": [
+        "洋蔥 or 高麗菜 or 胡蘿蔔 or 綠花椰菜 or 鹽 or 橄欖油"
+      ]
+    },
+    {
+      "name": "蛋花湯",
+      "category": "湯類料理",
+      "price": 117,
+      "recovery": "少量",
+      "effect": "移動速度提升LV1",
+      "materials": [
+        "蛋"
+      ],
+      "ingenuity": [
+        "青蔥 or 醬油 or 鹽 or 胡椒 or 油"
+      ]
+    },
+    {
+      "name": "起司蛋烤餅",
+      "category": "前菜料理",
+      "price": 10098,
+      "recovery": "非常多",
+      "effect": "採集獲取量2倍",
+      "materials": [
+        "麵粉",
+        "頂級起司",
+        "頂級優格",
+        "頂級奶油"
+      ],
+      "ingenuity": [
+        "蛋 or 烏骨雞蛋 or 米穀粉 or 砂糖 or 鹽 or 橄欖油 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "奶油燉羊肚菌",
+      "category": "前菜料理",
+      "price": 2592,
+      "recovery": "普普通通",
+      "effect": "體力上限提升LV4",
+      "materials": [
+        "羊肚菌",
+        "水牛奶",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "海膽"
+      ],
+      "ingenuity": [
+        "洋蔥 or 大蒜 or 義大利麵 or 鹽 or 胡椒 or 堅果油 or 香草油 or 橄欖油"
+      ]
+    },
+    {
+      "name": "法式鹹派",
+      "category": "前菜料理",
+      "price": 1892,
+      "recovery": "少量",
+      "effect": "體力上限提升LV4",
+      "materials": [
+        "麵粉",
+        "菠菜",
+        "南瓜",
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇"
+      ],
+      "ingenuity": [
+        "洋蔥 or 起司 or 香草起司 or 頂級起司 or 鹽 or 胡椒 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "炸魚薯條",
+      "category": "前菜料理",
+      "price": 1584,
+      "recovery": "少量",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "黃鱸魚 or 烏鱧 or 馬蘇鉤吻鮭 or 鱒魚 or 鮭魚 or 銀魚 or 櫻鱒",
+        "馬鈴薯",
+        "麵粉 or 米穀粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "辣椒 or 美乃滋 or 頂級美乃滋 or 醋 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "春捲",
+      "category": "前菜料理",
+      "price": 1530,
+      "recovery": "少量",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "麵粉",
+        "香菇",
+        "胡蘿蔔",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "高麗菜 or 茄子 or 醬油 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "中華包子",
+      "category": "前菜料理",
+      "price": 1377,
+      "recovery": "普普通通",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "麵粉",
+        "白菜",
+        "香菇",
+        "青蔥"
+      ],
+      "ingenuity": [
+        "砂糖 or 鹽 or 胡椒 or 油"
+      ]
+    },
+    {
+      "name": "煎餃",
+      "category": "前菜料理",
+      "price": 1353,
+      "recovery": "少量",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "麵粉",
+        "高麗菜",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "白菜 or 醬油 or 砂糖 or 鹽 or 胡椒 or 味噌 or 醋"
+      ]
+    },
+    {
+      "name": "炒青菜",
+      "category": "前菜料理",
+      "price": 1276,
+      "recovery": "少量",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "高麗菜",
+        "白菜"
+      ],
+      "ingenuity": [
+        "胡蘿蔔 or 青椒 or 蘆筍 or 南瓜 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "高麗菜捲",
+      "category": "前菜料理",
+      "price": 1213,
+      "recovery": "少量",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "高麗菜",
+        "胡蘿蔔"
+      ],
+      "ingenuity": [
+        "鹽 or 胡椒 or 堅果油 or 香草油 or 橄欖油 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "司康餅",
+      "category": "前菜料理",
+      "price": 1155,
+      "recovery": "少量",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "麵粉",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "葡萄果醬 or 蘋果果醬 or 藍莓果醬 or 草莓果醬"
+      ]
+    },
+    {
+      "name": "法式鹹薄餅",
+      "category": "前菜料理",
+      "price": 1122,
+      "recovery": "少量",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "蕎麥粉",
+        "馬鈴薯",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "蛋 or 烏骨雞蛋 or 起司 or 香草起司 or 頂級起司 or 橄欖油 or 南瓜籽油 or 葡萄籽油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "奶油麵包捲",
+      "category": "前菜料理",
+      "price": 1056,
+      "recovery": "少量",
+      "effect": "體力上限提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "墨西哥辣肉醬",
+      "category": "前菜料理",
+      "price": 911,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "番茄",
+        "豆子",
+        "辣椒",
+        "胡椒"
+      ],
+      "ingenuity": [
+        "起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "奶油煎蕪菁",
+      "category": "前菜料理",
+      "price": 882,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "蕪菁",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "大蒜 or 鹽 or 胡椒 or 油 or 堅果油 or 香草油 or 橄欖油 or 味噌"
+      ]
+    },
+    {
+      "name": "佛卡夏",
+      "category": "前菜料理",
+      "price": 843,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "麵粉",
+        "橄欖油"
+      ],
+      "ingenuity": [
+        "番茄 or 起司 or 香草起司 or 頂級起司 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "凍豆腐",
+      "category": "前菜料理",
+      "price": 824,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "豆腐",
+        "醬油",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "豆子 or 香菇 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "炸豆腐",
+      "category": "前菜料理",
+      "price": 809,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "豆腐",
+        "麵粉 or 米穀粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "白蘿蔔 or 青蔥 or 醬油"
+      ]
+    },
+    {
+      "name": "日式煎蛋捲",
+      "category": "前菜料理",
+      "price": 801,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "醬油",
+        "砂糖"
+      ],
+      "ingenuity": [
+        "白蘿蔔 or 鹽 or 油"
+      ]
+    },
+    {
+      "name": "茶碗蒸",
+      "category": "前菜料理",
+      "price": 747,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "香菇",
+        "魚板"
+      ],
+      "ingenuity": [
+        "菠菜 or 胡蘿蔔 or 綠花椰菜 or 豆子 or 鴻喜菇 or 鹽"
+      ]
+    },
+    {
+      "name": "豆腐渣",
+      "category": "前菜料理",
+      "price": 743,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "豆腐",
+        "胡蘿蔔"
+      ],
+      "ingenuity": [
+        "牛蒡 or 青蔥 or 香菇 or 炸豆皮 or 醬油 or 砂糖"
+      ]
+    },
+    {
+      "name": "奶油馬鈴薯",
+      "category": "前菜料理",
+      "price": 677,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "馬鈴薯",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "玉蜀黍 or 大蒜 or 醬油 or 鹽 or 海苔 or 海膽"
+      ]
+    },
+    {
+      "name": "長棍麵包",
+      "category": "前菜料理",
+      "price": 662,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "麵粉",
+        "鹽"
+      ],
+      "ingenuity": [
+        "堅果油 or 香草油 or 橄欖油 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "薯餅",
+      "category": "前菜料理",
+      "price": 632,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "馬鈴薯",
+        "麵粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "番茄 or 美乃滋 or 香草美乃滋 or 頂級美乃滋 or 麵粉 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "蒸麵包",
+      "category": "前菜料理",
+      "price": 609,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "番薯"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "炒花椰菜",
+      "category": "前菜料理",
+      "price": 602,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "花椰菜"
+      ],
+      "ingenuity": [
+        "大蒜 or 堅果油 or 香草油 or 橄欖油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "蒜炒綠花椰菜",
+      "category": "前菜料理",
+      "price": 563,
+      "recovery": "少量",
+      "effect": "體力上限提升LV2",
+      "materials": [
+        "綠花椰菜",
+        "大蒜",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "醬油 or 鹽 or 胡椒 or 堅果油 or 香草油 or 橄欖油 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "涼拌豆腐",
+      "category": "前菜料理",
+      "price": 458,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "豆腐",
+        "醬油"
+      ],
+      "ingenuity": [
+        "青蔥 or 鹽 or 油 or 海苔 or 海膽"
+      ]
+    },
+    {
+      "name": "馬鈴薯煎餅",
+      "category": "前菜料理",
+      "price": 429,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "馬鈴薯",
+        "麵粉",
+        "蛋 or 烏骨雞蛋"
+      ],
+      "ingenuity": [
+        "洋蔥 or 砂糖 or 鹽 or 堅果油 or 香草油 or 橄欖油"
+      ]
+    },
+    {
+      "name": "玉米片",
+      "category": "前菜料理",
+      "price": 403,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "玉蜀黍",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "草莓 or 香蕉 or 藍莓 or 優格 or 果實優格 or 頂級優格 or 砂糖 or 巧克力"
+      ]
+    },
+    {
+      "name": "荷包蛋",
+      "category": "前菜料理",
+      "price": 396,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "番茄 or 美乃滋 or 香草美乃滋 or 頂級美乃滋 or 醬油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "炸豆皮",
+      "category": "前菜料理",
+      "price": 267,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "豆腐"
+      ],
+      "ingenuity": [
+        "青蔥 or 堅果油 or 香草油 or 橄欖油 or 醬油 or 鹽"
+      ]
+    },
+    {
+      "name": "茄子田樂燒",
+      "category": "前菜料理",
+      "price": 246,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "茄子",
+        "味噌"
+      ],
+      "ingenuity": [
+        "醬油 or 砂糖 or 油"
+      ]
+    },
+    {
+      "name": "烤土司",
+      "category": "前菜料理",
+      "price": 234,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "麵包 or 白麵包"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 美乃滋 or 香草美乃滋 or 頂級美乃滋 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "豆腐",
+      "category": "前菜料理",
+      "price": 205,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "豆子",
+        "豆漿"
+      ],
+      "ingenuity": [
+        "青蔥 or 醬油 or 鹽 or 油 or 海苔 or 海膽"
+      ]
+    },
+    {
+      "name": "烤蘑菇",
+      "category": "前菜料理",
+      "price": 195,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇"
+      ],
+      "ingenuity": [
+        "鹽 or 胡椒 or 堅果油 or 香草油 or 橄欖油"
+      ]
+    },
+    {
+      "name": "水煮蛋",
+      "category": "前菜料理",
+      "price": 117,
+      "recovery": "普普通通",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "蛋 or 烏骨雞蛋"
+      ],
+      "ingenuity": [
+        "綠花椰菜 or 美乃滋 or 香草美乃滋 or 頂級美乃滋 or 鹽"
+      ]
+    },
+    {
+      "name": "豆皮",
+      "category": "前菜料理",
+      "price": 111,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "豆漿"
+      ],
+      "ingenuity": [
+        "豆腐 or 醬油 or 鹽 or 海苔"
+      ]
+    },
+    {
+      "name": "燒賣",
+      "category": "前菜料理",
+      "price": 924,
+      "recovery": "少量",
+      "effect": "釣竿耐久度提升LV2",
+      "materials": [
+        "麵粉",
+        "洋蔥",
+        "藍腮太陽魚 or 暗色頜鬚鮈 or 稻田魚 or 麥穗魚 or 西太公魚 or 香魚 or 鰻魚 or 鱸鰻 or 鯽魚 or 蘭氏鯽"
+      ],
+      "ingenuity": [
+        "豆子 or 砂糖 or 醬油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "生魚片",
+      "category": "前菜料理",
+      "price": 195,
+      "recovery": "少量",
+      "effect": "釣竿耐久度提升LV1",
+      "materials": [
+        "柳根魚 or 珠星三塊魚 or 日本溪哥 or 鈍頭杜父魚 or 特式東瀛鯉 or 黑腹鱊 or 長頜鬚鮈 or 虹鱒 or 鰱魚 or 博士巨鯰"
+      ],
+      "ingenuity": [
+        "白蘿蔔 or 胡蘿蔔 or 醬油"
+      ]
+    },
+    {
+      "name": "魚板",
+      "category": "前菜料理",
+      "price": 195,
+      "recovery": "少量",
+      "effect": "釣竿耐久度提升LV1",
+      "materials": [
+        "柳根魚 or 珠星三塊魚 or 日本溪哥 or 鈍頭杜父魚 or 特式東瀛鯉 or 黑腹鱊 or 長頜鬚鮈 or 虹鱒 or 鰱魚 or 博士巨鯰"
+      ],
+      "ingenuity": [
+        "酪梨 or 起司 or 香草起司 or 頂級起司 or 醬油"
+      ]
+    },
+    {
+      "name": "八寶菜",
+      "category": "前菜料理",
+      "price": 1509,
+      "recovery": "普普通通",
+      "effect": "澆水後稀有農作物機率提升LV3",
+      "materials": [
+        "白菜",
+        "胡蘿蔔",
+        "青椒",
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇"
+      ],
+      "ingenuity": [
+        "高麗菜 or 洋蔥 or 青江菜 or 牛蒡 or 甜椒"
+      ]
+    },
+    {
+      "name": "烤玉蜀黍",
+      "category": "前菜料理",
+      "price": 886,
+      "recovery": "少量",
+      "effect": "澆水後稀有農作物機率提升LV2",
+      "materials": [
+        "玉蜀黍",
+        "醬油",
+        "砂糖"
+      ],
+      "ingenuity": [
+        "大蒜 or 奶油 or 香草奶油 or 頂級奶油 or 油"
+      ]
+    },
+    {
+      "name": "咖哩包子",
+      "category": "前菜料理",
+      "price": 1920,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV4",
+      "materials": [
+        "麵粉",
+        "咖哩粉",
+        "洋蔥",
+        "胡蘿蔔"
+      ],
+      "ingenuity": [
+        "大蒜 or 牛奶 or 水牛奶 or 砂糖 or 鹽 or 胡椒 or 油"
+      ]
+    },
+    {
+      "name": "起司可樂餅",
+      "category": "前菜料理",
+      "price": 1844,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV4",
+      "materials": [
+        "馬鈴薯",
+        "麵包粉 or 白麵包粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油",
+        "起司 or 香草起司 or 頂級起司"
+      ],
+      "ingenuity": [
+        "洋蔥 or 高麗菜 or 蛋 or 烏骨雞蛋 or 砂糖 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "起司包子",
+      "category": "前菜料理",
+      "price": 1320,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV3",
+      "materials": [
+        "麵粉",
+        "起司 or 香草起司 or 頂級起司",
+        "水牛奶"
+      ],
+      "ingenuity": [
+        "大蒜 or 牛奶 or 水牛奶 or 砂糖 or 鹽 or 胡椒 or 油"
+      ]
+    },
+    {
+      "name": "奶油可樂餅",
+      "category": "前菜料理",
+      "price": 1098,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV3",
+      "materials": [
+        "馬鈴薯",
+        "麵包粉 or 白麵包粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "洋蔥 or 高麗菜 or 蛋 or 烏骨雞蛋 or 砂糖 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "奶油燉菜",
+      "category": "前菜料理",
+      "price": 770,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "麵粉",
+        "牛奶 or 水牛奶",
+        "馬鈴薯 or 蘆筍 or 胡蘿蔔 or 高麗菜 or 蕪菁 or 花椰菜"
+      ],
+      "ingenuity": [
+        "起司 or 香草起司 or 頂級起司 or 奶油 or 香草奶油 or 頂級奶油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "可樂餅",
+      "category": "前菜料理",
+      "price": 709,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "馬鈴薯",
+        "麵包粉 or 白麵包粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "洋蔥 or 高麗菜 or 蛋 or 烏骨雞蛋 or 砂糖 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "法式吐司",
+      "category": "前菜料理",
+      "price": 647,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "麵包 or 白麵包",
+        "蛋 or 烏骨雞蛋",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "爆米花",
+      "category": "前菜料理",
+      "price": 508,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "玉蜀黍",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 醬油 or 鹽 or 咖哩粉 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "薯條",
+      "category": "前菜料理",
+      "price": 355,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "馬鈴薯",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "番茄 or 美乃滋 or 香草美乃滋 or 頂級美乃滋 or 麵粉 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "溫泉蛋",
+      "category": "前菜料理",
+      "price": 301,
+      "recovery": "普普通通",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "醬油"
+      ],
+      "ingenuity": [
+        "青蔥 or 堅果油 or 香草油 or 橄欖油 or 鹽"
+      ]
+    },
+    {
+      "name": "烤番薯",
+      "category": "前菜料理",
+      "price": 202,
+      "recovery": "普普通通",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "番薯"
+      ],
+      "ingenuity": [
+        "砂糖 or 奶油 or 香草奶油 or 頂級奶油 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 醬油 or 油"
+      ]
+    },
+    {
+      "name": "麵包",
+      "category": "前菜料理",
+      "price": 195,
+      "recovery": "少量",
+      "effect": "無",
+      "materials": [
+        "麵粉"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "白麵包",
+      "category": "前菜料理",
+      "price": 182,
+      "recovery": "少量",
+      "effect": "無",
+      "materials": [
+        "米穀粉"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "米飯",
+      "category": "前菜料理",
+      "price": 91,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "稻米"
+      ],
+      "ingenuity": [
+        "鹽 or 海苔醬"
+      ]
+    },
+    {
+      "name": "終極咖哩",
+      "category": "主菜料理",
+      "price": 12353,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "頂級咖哩",
+        "巨大番茄",
+        "指甲辣椒",
+        "頂級優格"
+      ],
+      "ingenuity": [
+        "星形馬鈴薯 or 結實洋蔥 or 三腳胡蘿蔔 or 黃金蘋果"
+      ]
+    },
+    {
+      "name": "炒米粉",
+      "category": "主菜料理",
+      "price": 7508,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "米穀粉",
+        "國王菇",
+        "高麗菜",
+        "胡蘿蔔"
+      ],
+      "ingenuity": [
+        "洋蔥 or 青椒 or 醬油 or 胡椒 or 油"
+      ]
+    },
+    {
+      "name": "農家早餐",
+      "category": "主菜料理",
+      "price": 5957,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "馬鈴薯",
+        "洋蔥",
+        "頂級起司",
+        "頂級美乃滋"
+      ],
+      "ingenuity": [
+        "堅果油 or 橄欖油 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "頂級咖哩",
+      "category": "主菜料理",
+      "price": 3724,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "咖哩飯",
+        "星形馬鈴薯",
+        "三腳胡蘿蔔"
+      ],
+      "ingenuity": [
+        "巨大番茄 or 結實洋蔥 or 黃金蘋果 or 頂級牛奶 or 頂級水牛奶"
+      ]
+    },
+    {
+      "name": "義式蕎麥麵",
+      "category": "主菜料理",
+      "price": 2784,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "蕎麥粉",
+        "起司 or 香草起司 or 頂級起司",
+        "高麗菜",
+        "馬鈴薯"
+      ],
+      "ingenuity": [
+        "大蒜 or 奶油 or 香草奶油 or 頂級奶油 or 鹽"
+      ]
+    },
+    {
+      "name": "天婦羅蕎麥麵",
+      "category": "主菜料理",
+      "price": 2641,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "蕎麥粉",
+        "天婦羅"
+      ],
+      "ingenuity": [
+        "青蔥 or 菠菜 or 蛋 or 烏骨雞蛋 or 醬油"
+      ]
+    },
+    {
+      "name": "牛奶鍋",
+      "category": "主菜料理",
+      "price": 2640,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "頂級牛奶",
+        "胡蘿蔔",
+        "白菜",
+        "菠菜"
+      ],
+      "ingenuity": [
+        "馬鈴薯 or 高麗菜 or 青蔥 or 鴻喜菇 or 奶油 or 香草奶油 or 頂級奶油"
+      ]
+    },
+    {
+      "name": "起司通心粉",
+      "category": "主菜料理",
+      "price": 2592,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "起司 or 香草起司 or 頂級起司",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "美乃滋 or 香草美乃滋 or 頂級美乃滋"
+      ],
+      "ingenuity": [
+        "洋蔥 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or 牛奶 or 水牛奶 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "暖暖鍋",
+      "category": "主菜料理",
+      "price": 2487,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "白蘿蔔",
+        "白菜",
+        "青蔥",
+        "尼羅尖吻鱸 or 鮭魚 or 馬蘇鉤吻鮭 or 櫻鱒 or 褐鱒 or 黃鱸魚 or 香魚"
+      ],
+      "ingenuity": [
+        "胡蘿蔔 or 菠菜 or 青江菜 or 辣椒 or 豆漿 or 醬油"
+      ]
+    },
+    {
+      "name": "俄式魚湯",
+      "category": "主菜料理",
+      "price": 2324,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "尼羅尖吻鱸 or 鮭魚 or 馬蘇鉤吻鮭 or 櫻鱒 or 褐鱒 or 黃鱸魚 or 香魚",
+        "胡蘿蔔",
+        "馬鈴薯",
+        "洋蔥"
+      ],
+      "ingenuity": [
+        "檸檬 or 奶油 or 香草奶油 or 頂級奶油 or 鮭魚 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "野菇玉米糕",
+      "category": "主菜料理",
+      "price": 2295,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇",
+        "玉蜀黍",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "起司 or 香草起司 or 頂級起司"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 鹽 or 胡椒 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "天婦羅烏龍麵",
+      "category": "主菜料理",
+      "price": 2188,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "天婦羅"
+      ],
+      "ingenuity": [
+        "蛋 or 烏骨雞蛋 or 海苔 or 炸豆皮 or 醬油"
+      ]
+    },
+    {
+      "name": "醃漬菜魚",
+      "category": "主菜料理",
+      "price": 2160,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "尼羅尖吻鱸 or 鮭魚 or 馬蘇鉤吻鮭 or 櫻鱒 or 褐鱒 or 黃鱸魚 or 香魚",
+        "洋蔥",
+        "醋",
+        "檸檬"
+      ],
+      "ingenuity": [
+        "鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "天婦羅蓋飯",
+      "category": "主菜料理",
+      "price": 2089,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "天婦羅",
+        "米飯"
+      ],
+      "ingenuity": [
+        "蛋 or 烏骨雞蛋 or 海苔 or 鹽 or 砂糖"
+      ]
+    },
+    {
+      "name": "烤瑞克雷起司",
+      "category": "主菜料理",
+      "price": 1901,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "起司 or 香草起司 or 頂級起司",
+        "玉蜀黍",
+        "胡蘿蔔",
+        "綠花椰菜"
+      ],
+      "ingenuity": [
+        "蘆筍 or 薯條 or 烤土司 or 奶油 or 香草奶油 or 頂級奶油 or 鹽 or 胡椒 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "義大利麵沙拉",
+      "category": "主菜料理",
+      "price": 1817,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "義大利麵",
+        "綜合沙拉",
+        "美乃滋 or 香草美乃滋 or 頂級美乃滋"
+      ],
+      "ingenuity": [
+        "筆管義大利麵 or 香草義大利麵 or 牛奶 or 水牛奶 or 橄欖油 or 鹽 or 胡椒 or 醋 or 溫泉蛋"
+      ]
+    },
+    {
+      "name": "松茸飯",
+      "category": "主菜料理",
+      "price": 1760,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "稻米",
+        "松茸",
+        "醬油"
+      ],
+      "ingenuity": [
+        "胡蘿蔔 or 南瓜 or 炸豆皮 or 鹽"
+      ]
+    },
+    {
+      "name": "焗烤筆管麵",
+      "category": "主菜料理",
+      "price": 1568,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "起司 or 香草起司 or 頂級起司",
+        "美乃滋 or 香草美乃滋 or 頂級美乃滋"
+      ],
+      "ingenuity": [
+        "洋蔥 or 香菇 or 義大利麵 or 奶油 or 香草奶油 or 頂級奶油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "義大利湯麵",
+      "category": "主菜料理",
+      "price": 1566,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "義大利麵",
+        "番茄",
+        "茴魚 or 黑鰱 or 尼羅尖吻鱸 or 竹篙頭 or 真馬口魚 or 褐鱒 or 黑鱸魚 or 赫茨扁吻鮈",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "洋蔥 or 高麗菜 or 豆子 or 鴻喜菇 or 薄荷 or 堅果油 or 香草油 or 橄欖油"
+      ]
+    },
+    {
+      "name": "義式燉飯",
+      "category": "主菜料理",
+      "price": 1552,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "稻米",
+        "起司 or 香草起司 or 頂級起司",
+        "番茄",
+        "洋蔥"
+      ],
+      "ingenuity": [
+        "大蒜 or 牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 橄欖油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "薄切生魚片",
+      "category": "主菜料理",
+      "price": 1469,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "黃鱸魚 or 烏鱧 or 馬蘇鉤吻鮭 or 鱒魚 or 鮭魚 or 銀魚 or 櫻鱒",
+        "洋蔥",
+        "醋"
+      ],
+      "ingenuity": [
+        "鹽 or 胡椒 or 橄欖油"
+      ]
+    },
+    {
+      "name": "瑞士起司火鍋",
+      "category": "主菜料理",
+      "price": 1452,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "起司 or 香草起司 or 頂級起司",
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏",
+        "綠花椰菜 or 馬鈴薯 or 蘆筍 or 甜椒 or 胡蘿蔔 or 洋菇 or 南瓜"
+      ],
+      "ingenuity": [
+        "大蒜 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "野菇義大利麵",
+      "category": "主菜料理",
+      "price": 1449,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "義大利麵",
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "青蔥 or 大蒜 or 鹽 or 胡椒 or 醬油 or 橄欖油 or 起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "炒烏龍麵",
+      "category": "主菜料理",
+      "price": 1437,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "高麗菜",
+        "青椒",
+        "醬油"
+      ],
+      "ingenuity": [
+        "胡蘿蔔 or 青蔥 or 香菇 or 魚板 or 砂糖 or 油"
+      ]
+    },
+    {
+      "name": "豆皮壽司",
+      "category": "主菜料理",
+      "price": 1437,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "炸豆皮",
+        "醋",
+        "砂糖"
+      ],
+      "ingenuity": [
+        "胡蘿蔔 or 牛蒡 or 豆子 or 香菇 or 醬油"
+      ]
+    },
+    {
+      "name": "辣味咖哩",
+      "category": "主菜料理",
+      "price": 1424,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "咖哩粉",
+        "香辛料",
+        "馬鈴薯 or 胡蘿蔔 or 洋蔥"
+      ],
+      "ingenuity": [
+        "番茄 or 大蒜 or 蘋果"
+      ]
+    },
+    {
+      "name": "蛋包飯",
+      "category": "主菜料理",
+      "price": 1410,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "歐姆蛋",
+        "米飯"
+      ],
+      "ingenuity": [
+        "洋蔥 or 番茄 or 牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 鹽 or 胡椒 or 油"
+      ]
+    },
+    {
+      "name": "蒜味辣椒義大利麵",
+      "category": "主菜料理",
+      "price": 1410,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "義大利麵",
+        "辣椒",
+        "大蒜",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "鴻喜菇 or 洋菇 or 鹽 or 醬油 or 胡椒 or 起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "海苔咖哩",
+      "category": "主菜料理",
+      "price": 1388,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "咖哩粉",
+        "海苔",
+        "馬鈴薯 or 胡蘿蔔 or 洋蔥"
+      ],
+      "ingenuity": [
+        "番茄 or 大蒜 or 蘋果"
+      ]
+    },
+    {
+      "name": "果醬麵包",
+      "category": "主菜料理",
+      "price": 1339,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "蘋果果醬 or 草莓果醬 or 葡萄果醬 or 藍莓果醬"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "牛奶咖哩",
+      "category": "主菜料理",
+      "price": 1334,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "咖哩粉",
+        "牛奶 or 水牛奶",
+        "馬鈴薯 or 胡蘿蔔 or 洋蔥"
+      ],
+      "ingenuity": [
+        "番茄 or 大蒜 or 蘋果 or 奶油 or 香草奶油 or 頂級奶油 or 起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "熱油火鍋",
+      "category": "主菜料理",
+      "price": 1325,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "橄欖油",
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏",
+        "綠花椰菜 or 馬鈴薯 or 蘆筍 or 甜椒 or 胡蘿蔔 or 洋菇 or 南瓜"
+      ],
+      "ingenuity": [
+        "大蒜 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "炒飯",
+      "category": "主菜料理",
+      "price": 1316,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "蛋 or 烏骨雞蛋",
+        "洋蔥",
+        "胡蘿蔔"
+      ],
+      "ingenuity": [
+        "高麗菜 or 青椒 or 青蔥 or 醬油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "彩虹咖哩",
+      "category": "主菜料理",
+      "price": 1304,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "咖哩粉",
+        "菠菜",
+        "甜椒"
+      ],
+      "ingenuity": [
+        "番茄 or 大蒜 or 蘋果"
+      ]
+    },
+    {
+      "name": "炒蕎麥麵",
+      "category": "主菜料理",
+      "price": 1271,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇",
+        "高麗菜"
+      ],
+      "ingenuity": [
+        "胡蘿蔔 or 青蔥 or 香菇 or 鴻喜菇 or 醬油 or 砂糖 or 油"
+      ]
+    },
+    {
+      "name": "鰻魚蓋飯",
+      "category": "主菜料理",
+      "price": 1262,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "鰻魚 or 鱸鰻",
+        "醬油",
+        "砂糖"
+      ],
+      "ingenuity": [
+        "青蔥 or 海苔 or 煎茶"
+      ]
+    },
+    {
+      "name": "烤松茸",
+      "category": "主菜料理",
+      "price": 1200,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "松茸"
+      ],
+      "ingenuity": [
+        "鹽 or 胡椒 or 南瓜籽油 or 葡萄籽油"
+      ]
+    },
+    {
+      "name": "多利亞焗飯",
+      "category": "主菜料理",
+      "price": 1188,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "稻米",
+        "起司 or 香草起司 or 頂級起司",
+        "水牛奶"
+      ],
+      "ingenuity": [
+        "洋蔥 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or 奶油 or 香草奶油 or 頂級奶油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "香草麵包",
+      "category": "主菜料理",
+      "price": 1182,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "香草奶油"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "什錦燒",
+      "category": "主菜料理",
+      "price": 1172,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "高麗菜",
+        "蛋 or 烏骨雞蛋"
+      ],
+      "ingenuity": [
+        "青蔥 or 美乃滋 or 香草美乃滋 or 頂級美乃滋 or 年糕 or 油 or 荷包蛋 or 義大利麵"
+      ]
+    },
+    {
+      "name": "天婦羅",
+      "category": "主菜料理",
+      "price": 1152,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油",
+        "蛋 or 烏骨雞蛋",
+        "香菇 or 南瓜 or 茄子 or 番薯 or 銀魚 or 西太公魚"
+      ],
+      "ingenuity": [
+        "白蘿蔔 or 鹽"
+      ]
+    },
+    {
+      "name": "海鮮燉飯",
+      "category": "主菜料理",
+      "price": 1151,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "茴魚 or 黑鰱 or 尼羅尖吻鱸 or 竹篙頭 or 真馬口魚 or 褐鱒 or 黑鱸魚 or 赫茨扁吻鮈",
+        "甜椒",
+        "香辛料"
+      ],
+      "ingenuity": [
+        "番茄 or 洋菇 or 牛肝菌 or 羊肚菌 or 橄欖油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "湯豆腐",
+      "category": "主菜料理",
+      "price": 1147,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "豆腐",
+        "白菜",
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇"
+      ],
+      "ingenuity": [
+        "菠菜 or 青江菜 or 白蘿蔔 or 青蔥 or 醬油 or 醋"
+      ]
+    },
+    {
+      "name": "披薩",
+      "category": "主菜料理",
+      "price": 1142,
+      "recovery": "非常多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "番茄",
+        "起司 or 香草起司 or 頂級起司"
+      ],
+      "ingenuity": [
+        "青椒 or 洋蔥 or 蘆筍 or 玉蜀黍 or 鳳梨"
+      ]
+    },
+    {
+      "name": "豆漿奶油燉青江菜",
+      "category": "主菜料理",
+      "price": 1131,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "青江菜",
+        "豆漿",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "砂糖 or 鹽 or 胡椒 or 油 or 鴻喜菇"
+      ]
+    },
+    {
+      "name": "咖哩麵包",
+      "category": "主菜料理",
+      "price": 1073,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "咖哩粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "蛋 or 烏骨雞蛋 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "奶油煎魚",
+      "category": "主菜料理",
+      "price": 1073,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "茴魚 or 黑鰱 or 尼羅尖吻鱸 or 竹篙頭 or 真馬口魚 or 褐鱒 or 黑鱸魚 or 赫茨扁吻鮈",
+        "麵粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "檸檬 or 奶油 or 香草奶油 or 頂級奶油 or 橄欖油"
+      ]
+    },
+    {
+      "name": "炊飯",
+      "category": "主菜料理",
+      "price": 1052,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "稻米",
+        "炸豆皮",
+        "胡蘿蔔"
+      ],
+      "ingenuity": [
+        "白蘿蔔 or 牛蒡 or 鴻喜菇 or 香菇 or 醬油 or 鹽"
+      ]
+    },
+    {
+      "name": "粉紅起司火鍋",
+      "category": "主菜料理",
+      "price": 937,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "葡萄汁",
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏",
+        "綠花椰菜 or 馬鈴薯 or 蘆筍 or 甜椒 or 胡蘿蔔 or 洋菇 or 南瓜"
+      ],
+      "ingenuity": [
+        "大蒜 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "咖哩飯",
+      "category": "主菜料理",
+      "price": 911,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "咖哩粉",
+        "馬鈴薯 or 胡蘿蔔 or 洋蔥"
+      ],
+      "ingenuity": [
+        "番茄 or 大蒜 or 蘋果"
+      ]
+    },
+    {
+      "name": "蔬菜咖哩",
+      "category": "主菜料理",
+      "price": 911,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "咖哩粉",
+        "小黃瓜 or 洋蔥 or 蘆筍 or 番茄 or 甜椒 or 胡蘿蔔 or 蕪菁 or 番薯 or 南瓜 or 茄子"
+      ],
+      "ingenuity": [
+        "大蒜 or 蘋果"
+      ]
+    },
+    {
+      "name": "香菇飯",
+      "category": "主菜料理",
+      "price": 874,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "稻米",
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇",
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇",
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇"
+      ],
+      "ingenuity": [
+        "青蔥 or 炸豆皮 or 醬油 or 鹽"
+      ]
+    },
+    {
+      "name": "散壽司",
+      "category": "主菜料理",
+      "price": 867,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "生魚片",
+        "米飯",
+        "醋",
+        "蛋 or 烏骨雞蛋"
+      ],
+      "ingenuity": [
+        "胡蘿蔔 or 香菇 or 豆子 or 醬油 or 砂糖 or 鹽 or 海苔"
+      ]
+    },
+    {
+      "name": "竹籠蕎麥麵",
+      "category": "主菜料理",
+      "price": 838,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "蕎麥粉",
+        "麵粉"
+      ],
+      "ingenuity": [
+        "青蔥 or 海苔 or 醬油 or 砂糖"
+      ]
+    },
+    {
+      "name": "乾咖哩",
+      "category": "主菜料理",
+      "price": 837,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "咖哩粉",
+        "番茄",
+        "豆子"
+      ],
+      "ingenuity": [
+        "洋蔥 or 大蒜 or 胡蘿蔔 or 青椒 or 水煮蛋"
+      ]
+    },
+    {
+      "name": "馬賽魚湯",
+      "category": "主菜料理",
+      "price": 835,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "番茄",
+        "茴魚 or 黑鰱 or 尼羅尖吻鱸 or 竹篙頭 or 真馬口魚 or 褐鱒 or 黑鱸魚 or 赫茨扁吻鮈",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "洋蔥 or 大蒜 or 鹽 or 胡椒 or 堅果油 or 香草油 or 橄欖油"
+      ]
+    },
+    {
+      "name": "香草三明治",
+      "category": "主菜料理",
+      "price": 817,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏",
+        "薄荷 or 洋甘菊 or 薰衣草",
+        "美乃滋 or 香草美乃滋 or 頂級美乃滋"
+      ],
+      "ingenuity": [
+        "番茄 or 洋蔥 or 美乃滋 or 香草美乃滋 or 頂級美乃滋 or 堅果油 or 香草油 or 橄欖油"
+      ]
+    },
+    {
+      "name": "蒸蘑菇",
+      "category": "主菜料理",
+      "price": 809,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "鹽 or 胡椒 or 堅果油 or 香草油 or 橄欖油"
+      ]
+    },
+    {
+      "name": "豆腐排",
+      "category": "主菜料理",
+      "price": 809,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "豆腐",
+        "麵粉 or 米穀粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "青蔥 or 醬油 or 砂糖"
+      ]
+    },
+    {
+      "name": "牛奶粥",
+      "category": "主菜料理",
+      "price": 801,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "稻米",
+        "鹽",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "洋蔥 or 香菇 or 鴻喜菇 or 奶油 or 香草奶油 or 頂級奶油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "烤飯糰",
+      "category": "主菜料理",
+      "price": 735,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "飯糰",
+        "醬油"
+      ],
+      "ingenuity": [
+        "海苔 or 綠茶 or 煎茶"
+      ]
+    },
+    {
+      "name": "歐姆蛋",
+      "category": "主菜料理",
+      "price": 721,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "洋蔥 or 番茄 or 牛奶 or 水牛奶 or 鹽  or 胡椒"
+      ]
+    },
+    {
+      "name": "雞蛋蓋飯",
+      "category": "主菜料理",
+      "price": 664,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "洋蔥",
+        "米飯"
+      ],
+      "ingenuity": [
+        "青蔥 or 醬油 or 砂糖 or 海苔"
+      ]
+    },
+    {
+      "name": "壽司",
+      "category": "主菜料理",
+      "price": 657,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "生魚片",
+        "米飯",
+        "醋"
+      ],
+      "ingenuity": [
+        "小黃瓜 or 醬油 or 砂糖 or 鹽 or 海苔"
+      ]
+    },
+    {
+      "name": "瑞士番茄火鍋",
+      "category": "主菜料理",
+      "price": 650,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "番茄",
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏",
+        "綠花椰菜 or 馬鈴薯 or 蘆筍 or 甜椒 or 胡蘿蔔 or 洋菇 or 南瓜"
+      ],
+      "ingenuity": [
+        "大蒜 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "烏龍麵",
+      "category": "主菜料理",
+      "price": 647,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "魚板",
+        "青蔥"
+      ],
+      "ingenuity": [
+        "蛋 or 烏骨雞蛋 or 香菇 or 海苔 or 炸豆皮 or 醬油"
+      ]
+    },
+    {
+      "name": "香草粥",
+      "category": "主菜料理",
+      "price": 647,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "稻米",
+        "鹽",
+        "薄荷 or 洋甘菊 or 薰衣草"
+      ],
+      "ingenuity": [
+        "青蔥 or 蛋 or 烏骨雞蛋"
+      ]
+    },
+    {
+      "name": "水果三明治",
+      "category": "主菜料理",
+      "price": 647,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏",
+        "櫻桃 or 藍莓 or 麝香葡萄 or 草莓 or 芒果 or 鳳梨 or 香蕉 or 桃子 or 柳橙 or 哈密瓜",
+        "櫻桃 or 藍莓 or 麝香葡萄 or 草莓 or 芒果 or 鳳梨 or 香蕉 or 桃子 or 柳橙 or 哈密瓜"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 薄荷 or 巧克力 or 砂糖"
+      ]
+    },
+    {
+      "name": "香草義大利麵",
+      "category": "主菜料理",
+      "price": 616,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "薄荷 or 洋甘菊 or 薰衣草",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "番茄 or 小黃瓜 or 大蒜 or 酪梨 or 起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "筆管義大利麵",
+      "category": "主菜料理",
+      "price": 604,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油",
+        "番茄"
+      ],
+      "ingenuity": [
+        "酪梨 or 起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "稀飯",
+      "category": "主菜料理",
+      "price": 544,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "稻米",
+        "鹽"
+      ],
+      "ingenuity": [
+        "青蔥 or 蛋 or 烏骨雞蛋"
+      ]
+    },
+    {
+      "name": "醬煮魚",
+      "category": "主菜料理",
+      "price": 451,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "藍腮太陽魚 or 暗色頜鬚鮈 or 稻田魚 or 麥穗魚 or 西太公魚 or 香魚 or 鰻魚 or 鱸鰻 or 鯽魚 or 蘭氏鯽",
+        "醬油"
+      ],
+      "ingenuity": [
+        "青蔥 or 牛蒡 or 砂糖"
+      ]
+    },
+    {
+      "name": "葡萄麵包",
+      "category": "主菜料理",
+      "price": 444,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "葡萄"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "三明治",
+      "category": "主菜料理",
+      "price": 375,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏",
+        "番茄",
+        "小黃瓜"
+      ],
+      "ingenuity": [
+        "水煮蛋 or 起司 or 香草起司 or 頂級起司 or 奶油 or 香草奶油 or 頂級奶油 or 美乃滋 or 香草美乃滋 or 頂級美乃滋"
+      ]
+    },
+    {
+      "name": "飯糰",
+      "category": "主菜料理",
+      "price": 370,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "海苔"
+      ],
+      "ingenuity": [
+        "豆子 or 鴻喜菇 or 松茸 or 鮭魚 or 鹽"
+      ]
+    },
+    {
+      "name": "烤茄子",
+      "category": "主菜料理",
+      "price": 342,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "茄子",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "青蔥 or 醬油 or 鹽"
+      ]
+    },
+    {
+      "name": "栗子飯",
+      "category": "主菜料理",
+      "price": 329,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "米飯",
+        "栗子"
+      ],
+      "ingenuity": [
+        "番薯 or 瓶裝栗子 or 鹽"
+      ]
+    },
+    {
+      "name": "義大利麵",
+      "category": "主菜料理",
+      "price": 328,
+      "recovery": "很多",
+      "effect": "無",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋"
+      ],
+      "ingenuity": [
+        "番茄 or 小黃瓜 or 大蒜 or 茄子 or 起司 or 香草起司 or 頂級起司"
+      ]
+    },
+    {
+      "name": "生蛋拌飯",
+      "category": "主菜料理",
+      "price": 246,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "米飯"
+      ],
+      "ingenuity": [
+        "青蔥 or 起司 or 香草起司 or 頂級起司 or 醬油 or 鹽 or 胡椒"
+      ]
+    },
+    {
+      "name": "烤魚",
+      "category": "主菜料理",
+      "price": 195,
+      "recovery": "普普通通",
+      "effect": "無",
+      "materials": [
+        "柳根魚 or 珠星三塊魚 or 日本溪哥 or 鈍頭杜父魚 or 特式東瀛鯉 or 黑腹鱊 or 長頜鬚鮈 or 虹鱒 or 鰱魚 or 博士巨鯰"
+      ],
+      "ingenuity": [
+        "白蘿蔔 or 醬油"
+      ]
+    },
+    {
+      "name": "胡蘿蔔蛋糕",
+      "category": "甜點料理",
+      "price": 2506,
+      "recovery": "?",
+      "effect": "跳躍的飛行距離提升",
+      "materials": [
+        "麵粉",
+        "烏骨雞蛋",
+        "三腳胡蘿蔔",
+        "檸檬"
+      ],
+      "ingenuity": [
+        "杏仁 or 牛奶 or 水牛奶 or 麵包粉"
+      ]
+    },
+    {
+      "name": "乳脂鬆糕",
+      "category": "甜點料理",
+      "price": 6192,
+      "recovery": "普普通通",
+      "effect": "撫摸動物時的放鬆度提升LV4",
+      "materials": [
+        "長崎蛋糕",
+        "頂級烏骨雞蛋",
+        "頂級優格",
+        "櫻桃 or 藍莓 or 麝香葡萄 or 草莓 or 芒果 or 鳳梨 or 香蕉 or 桃子 or 柳橙 or 哈密瓜"
+      ],
+      "ingenuity": [
+        "餅乾 or 香草餅乾 or 核桃酥 or 巧克力餅乾"
+      ]
+    },
+    {
+      "name": "鳳梨派",
+      "category": "甜點料理",
+      "price": 3130,
+      "recovery": "普普通通",
+      "effect": "撫摸動物時的放鬆度提升LV4",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "珠寶鳳梨"
+      ],
+      "ingenuity": [
+        "檸檬 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "起司蛋糕",
+      "category": "甜點料理",
+      "price": 1602,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "水牛奶",
+        "起司 or 香草起司 or 頂級起司"
+      ],
+      "ingenuity": [
+        "檸檬 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖"
+      ]
+    },
+    {
+      "name": "蒸蛋糕",
+      "category": "甜點料理",
+      "price": 1422,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "牛奶 or 水牛奶",
+        "南瓜"
+      ],
+      "ingenuity": [
+        "番薯 or 奶油 or 香草奶油 or 頂級奶油 or 米穀粉 or 砂糖"
+      ]
+    },
+    {
+      "name": "櫻桃派",
+      "category": "甜點料理",
+      "price": 1404,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "櫻桃"
+      ],
+      "ingenuity": [
+        "檸檬 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "藍莓派",
+      "category": "甜點料理",
+      "price": 1377,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "藍莓"
+      ],
+      "ingenuity": [
+        "檸檬 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "草莓派",
+      "category": "甜點料理",
+      "price": 1368,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "草莓"
+      ],
+      "ingenuity": [
+        "檸檬 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "甜甜圈",
+      "category": "甜點料理",
+      "price": 1332,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "砂糖",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油"
+      ]
+    },
+    {
+      "name": "吉拿棒",
+      "category": "甜點料理",
+      "price": 1332,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "油 or 堅果油 or 香草油 or 橄欖油 or 葡萄籽油",
+        "砂糖"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 奶油 or 香草奶油 or 頂級奶油 or 巧克力"
+      ]
+    },
+    {
+      "name": "巧克力蛋糕",
+      "category": "甜點料理",
+      "price": 1242,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "牛奶 or 水牛奶",
+        "巧克力"
+      ],
+      "ingenuity": [
+        "可可豆 or 奶油 or 香草奶油 or 頂級奶油 or 抹茶"
+      ]
+    },
+    {
+      "name": "年輪蛋糕",
+      "category": "甜點料理",
+      "price": 1242,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "牛奶 or 水牛奶",
+        "砂糖"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 奶油 or 香草奶油 or 頂級奶油"
+      ]
+    },
+    {
+      "name": "焦糖核桃蛋糕",
+      "category": "甜點料理",
+      "price": 1206,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "烏骨雞蛋",
+        "砂糖",
+        "核桃"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "鬆餅",
+      "category": "甜點料理",
+      "price": 1152,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "牛奶 or 水牛奶",
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 砂糖"
+      ]
+    },
+    {
+      "name": "水果白玉湯圓",
+      "category": "甜點料理",
+      "price": 1416,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV3",
+      "materials": [
+        "糯米粉",
+        "櫻桃 or 藍莓 or 麝香葡萄 or 草莓 or 芒果 or 鳳梨 or 香蕉 or 桃子 or 柳橙 or 哈密瓜",
+        "櫻桃 or 藍莓 or 麝香葡萄 or 草莓 or 芒果 or 鳳梨 or 香蕉 or 桃子 or 柳橙 or 哈密瓜"
+      ],
+      "ingenuity": [
+        "薄荷 or 砂糖"
+      ]
+    },
+    {
+      "name": "地瓜燒",
+      "category": "甜點料理",
+      "price": 932,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "牛奶 or 水牛奶",
+        "砂糖",
+        "番薯"
+      ],
+      "ingenuity": [
+        "蛋 or 烏骨雞蛋 or 奶油 or 香草奶油 or 頂級奶油 or 鹽"
+      ]
+    },
+    {
+      "name": "巧克力鍋",
+      "category": "甜點料理",
+      "price": 924,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "巧克力",
+        "麵包 or 白麵包 or 長棍麵包 or 佛卡夏",
+        "蘋果 or 葡萄 or 麝香葡萄 or 草莓 or 芒果 or 鳳梨 or 香蕉 or 桃子 or 柳橙 or 哈密瓜"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖"
+      ]
+    },
+    {
+      "name": "烤蘋果",
+      "category": "甜點料理",
+      "price": 838,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "蘋果",
+        "奶油 or 香草奶油 or 頂級奶油"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "冰淇淋",
+      "category": "甜點料理",
+      "price": 832,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "牛奶 or 水牛奶",
+        "蛋 or 烏骨雞蛋",
+        "砂糖"
+      ],
+      "ingenuity": [
+        "薄荷 or 巧克力 or 紅茶"
+      ]
+    },
+    {
+      "name": "長崎蛋糕",
+      "category": "甜點料理",
+      "price": 801,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "麵粉",
+        "烏骨雞蛋",
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 米穀粉 or 砂糖"
+      ]
+    },
+    {
+      "name": "草莓大福",
+      "category": "甜點料理",
+      "price": 618,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "年糕",
+        "草莓"
+      ],
+      "ingenuity": [
+        "糯米粉 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "蛋糕",
+      "category": "甜點料理",
+      "price": 601,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "草莓 or 檸檬 or 芒果 or 起司 or 香草起司 or 頂級起司 or 奶油 or 香草奶油 or 頂級奶油"
+      ]
+    },
+    {
+      "name": "蛋塔",
+      "category": "甜點料理",
+      "price": 601,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "牛奶 or 水牛奶",
+        "麵粉"
+      ],
+      "ingenuity": [
+        "砂糖 or 奶油 or 香草奶油 or 頂級奶油 or 杏仁"
+      ]
+    },
+    {
+      "name": "賞月團子",
+      "category": "甜點料理",
+      "price": 588,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "糯米粉"
+      ],
+      "ingenuity": [
+        "米穀粉 or 黃豆粉 or 砂糖"
+      ]
+    },
+    {
+      "name": "甜粽",
+      "category": "甜點料理",
+      "price": 544,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "年糕",
+        "夏季茶葉"
+      ],
+      "ingenuity": [
+        "胡蘿蔔 or 蛋 or 烏骨雞蛋 or 香菇 or 砂糖 or 醬油"
+      ]
+    },
+    {
+      "name": "核桃酥",
+      "category": "甜點料理",
+      "price": 524,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "核桃"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖"
+      ]
+    },
+    {
+      "name": "豆漿布丁",
+      "category": "甜點料理",
+      "price": 501,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV2",
+      "materials": [
+        "牛奶 or 水牛奶",
+        "蛋 or 烏骨雞蛋",
+        "豆漿"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "香草餅乾",
+      "category": "甜點料理",
+      "price": 415,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV1",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "薄荷 or 洋甘菊 or 薰衣草"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖"
+      ]
+    },
+    {
+      "name": "烤年糕",
+      "category": "甜點料理",
+      "price": 390,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV1",
+      "materials": [
+        "年糕"
+      ],
+      "ingenuity": [
+        "黃豆粉 or 砂糖 or 醬油 or 海苔"
+      ]
+    },
+    {
+      "name": "甜栗子泥",
+      "category": "甜點料理",
+      "price": 390,
+      "recovery": "少量",
+      "effect": "撫摸動物時的放鬆度提升LV1",
+      "materials": [
+        "瓶裝栗子"
+      ],
+      "ingenuity": [
+        "番薯 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "圓形起司蛋糕",
+      "category": "甜點料理",
+      "price": 2746,
+      "recovery": "普普通通",
+      "effect": "撫摸動物時的稀有副產品機率提升LV4",
+      "materials": [
+        "麵粉",
+        "頂級蛋 or 頂級烏骨雞蛋",
+        "頂級水牛奶",
+        "起司 or 香草起司 or 頂級起司"
+      ],
+      "ingenuity": [
+        "檸檬 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 餅乾"
+      ]
+    },
+    {
+      "name": "圓形巧克力蛋糕",
+      "category": "甜點料理",
+      "price": 1786,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV4",
+      "materials": [
+        "麵粉",
+        "頂級蛋 or 頂級烏骨雞蛋",
+        "頂級牛奶 or 頂級水牛奶",
+        "巧克力"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 巧克力餅乾"
+      ]
+    },
+    {
+      "name": "蘋果派",
+      "category": "甜點料理",
+      "price": 1458,
+      "recovery": "?",
+      "effect": "撫摸動物時的稀有副產品機率提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "奶油 or 香草奶油 or 頂級奶油",
+        "蘋果"
+      ],
+      "ingenuity": [
+        "檸檬 or 砂糖 or 鹽"
+      ]
+    },
+    {
+      "name": "圓形蛋糕",
+      "category": "甜點料理",
+      "price": 1755,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV3",
+      "materials": [
+        "麵粉",
+        "頂級蛋 or 頂級烏骨雞蛋",
+        "頂級牛奶 or 頂級水牛奶",
+        "草莓"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 巧克力"
+      ]
+    },
+    {
+      "name": "蒙布朗",
+      "category": "甜點料理",
+      "price": 1242,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV3",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "牛奶 or 水牛奶",
+        "瓶裝栗子"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 砂糖"
+      ]
+    },
+    {
+      "name": "南瓜布丁",
+      "category": "甜點料理",
+      "price": 986,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV2",
+      "materials": [
+        "牛奶 or 水牛奶",
+        "蛋 or 烏骨雞蛋",
+        "南瓜"
+      ],
+      "ingenuity": [
+        "南瓜種子 or 砂糖 or 奶油 or 香草奶油 or 頂級奶油"
+      ]
+    },
+    {
+      "name": "巧克力餅乾",
+      "category": "甜點料理",
+      "price": 832,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV2",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "巧克力"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖"
+      ]
+    },
+    {
+      "name": "蜂蜜蛋糕",
+      "category": "甜點料理",
+      "price": 755,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV2",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋",
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 洋甘菊"
+      ]
+    },
+    {
+      "name": "巧克力香蕉",
+      "category": "甜點料理",
+      "price": 735,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV2",
+      "materials": [
+        "香蕉",
+        "巧克力"
+      ],
+      "ingenuity": [
+        "砂糖 or 油"
+      ]
+    },
+    {
+      "name": "布丁",
+      "category": "甜點料理",
+      "price": 328,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV1",
+      "materials": [
+        "牛奶 or 水牛奶",
+        "蛋 or 烏骨雞蛋"
+      ],
+      "ingenuity": [
+        "砂糖 or 奶油 or 香草奶油 or 頂級奶油"
+      ]
+    },
+    {
+      "name": "餅乾",
+      "category": "甜點料理",
+      "price": 328,
+      "recovery": "少量",
+      "effect": "撫摸動物時的稀有副產品機率提升LV1",
+      "materials": [
+        "麵粉",
+        "蛋 or 烏骨雞蛋"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 奶油 or 香草奶油 or 頂級奶油 or 砂糖"
+      ]
+    },
+    {
+      "name": "豆漿",
+      "category": "其他料理",
+      "price": 85,
+      "recovery": "少量",
+      "effect": "體力上限提升LV1",
+      "materials": [
+        "豆子"
+      ],
+      "ingenuity": [
+        "香蕉 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 紅茶罐 or 砂糖 or 黃豆粉"
+      ]
+    },
+    {
+      "name": "蜂蜜水",
+      "category": "其他料理(果汁)",
+      "price": 325,
+      "recovery": "少量",
+      "effect": "體力消耗減少LV1",
+      "materials": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格"
+      ]
+    },
+    {
+      "name": "海苔醬",
+      "category": "其他料理",
+      "price": 424,
+      "recovery": "少量",
+      "effect": "釣竿耐久度提升LV1",
+      "materials": [
+        "海苔",
+        "醬油"
+      ],
+      "ingenuity": [
+        "香菇 or 醬油 or 砂糖"
+      ]
+    },
+    {
+      "name": "夏色特調茶",
+      "category": "其他料理",
+      "price": 1287,
+      "recovery": "少量",
+      "effect": "移動速度提升LV3",
+      "materials": [
+        "夏色特調紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "夏風果汁",
+      "category": "其他料理(果汁)",
+      "price": 1020,
+      "recovery": "?",
+      "effect": "移動速度提升LV3",
+      "materials": [
+        "香蕉汁",
+        "桃子汁",
+        "檸檬汁"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "紅茶",
+      "category": "其他料理(茶)",
+      "price": 401,
+      "recovery": "少量",
+      "effect": "澆水後稀有農作物機率提升LV1",
+      "materials": [
+        "紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "黃金特調茶",
+      "category": "其他料理",
+      "price": 13031,
+      "recovery": "?",
+      "effect": "對話友好度增加LV4",
+      "materials": [
+        "黃金特調紅茶罐"
+      ],
+      "ingenuity": [
+        "心形檸檬 or 頂級牛奶 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "西瓜茶",
+      "category": "其他料理(茶)",
+      "price": 2148,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV4",
+      "materials": [
+        "西瓜紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "哈密瓜茶",
+      "category": "其他料理(茶)",
+      "price": 1901,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV4",
+      "materials": [
+        "哈密瓜紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "俄羅斯紅茶",
+      "category": "其他料理(茶)",
+      "price": 1850,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV4",
+      "materials": [
+        "紅茶",
+        "蘋果果醬 or 草莓果醬 or 葡萄果醬 or 藍莓果醬"
+      ],
+      "ingenuity": [
+        "頂級牛奶 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "鳳梨茶",
+      "category": "其他料理(茶)",
+      "price": 1320,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV3",
+      "materials": [
+        "鳳梨紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "春色特調茶",
+      "category": "其他料理(茶)",
+      "price": 1287,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV3",
+      "materials": [
+        "春色特調紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "皇家奶茶",
+      "category": "其他料理(茶)",
+      "price": 1194,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV3",
+      "materials": [
+        "紅茶罐",
+        "頂級牛奶"
+      ],
+      "ingenuity": [
+        "皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "春風果汁",
+      "category": "其他料理(果汁)",
+      "price": 935,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV3",
+      "materials": [
+        "草莓汁",
+        "柳橙汁",
+        "櫻桃汁"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "草莓果醬",
+      "category": "其他料理",
+      "price": 855,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "草莓",
+        "砂糖",
+        "檸檬"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "桑格利亞果汁",
+      "category": "其他料理(果汁)",
+      "price": 826,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "葡萄汁",
+        "蘋果",
+        "柳橙"
+      ],
+      "ingenuity": [
+        "草莓 or 櫻桃 or 桃子 or 藍莓"
+      ]
+    },
+    {
+      "name": "卡布奇諾",
+      "category": "其他料理",
+      "price": 780,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "熱咖啡",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "可可豆 or 核桃"
+      ]
+    },
+    {
+      "name": "咖啡歐蕾",
+      "category": "其他料理",
+      "price": 780,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "熱咖啡",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 巧克力 or 豆漿 or 冰淇淋"
+      ]
+    },
+    {
+      "name": "西瓜汁",
+      "category": "其他料理(果汁)",
+      "price": 756,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "西瓜"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "奶茶",
+      "category": "其他料理(茶)",
+      "price": 674,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "紅茶罐",
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "哈密瓜汁",
+      "category": "其他料理(果汁)",
+      "price": 658,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "哈密瓜"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "草莓茶",
+      "category": "其他料理(茶)",
+      "price": 586,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV2",
+      "materials": [
+        "草莓紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "鳳梨汁",
+      "category": "其他料理(果汁)",
+      "price": 429,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "鳳梨"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "煎茶",
+      "category": "其他料理(茶)",
+      "price": 401,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "煎茶罐"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖"
+      ]
+    },
+    {
+      "name": "普洱茶",
+      "category": "其他料理(茶)",
+      "price": 401,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "普洱茶罐"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖"
+      ]
+    },
+    {
+      "name": "烏龍茶",
+      "category": "其他料理(茶)",
+      "price": 401,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "烏龍茶罐"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖 or 薄荷 or 洋甘菊"
+      ]
+    },
+    {
+      "name": "栗子汁",
+      "category": "其他料理(果汁)",
+      "price": 390,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "瓶裝栗子"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖 or 巧克力 or 黃豆粉"
+      ]
+    },
+    {
+      "name": "熱咖啡",
+      "category": "其他料理",
+      "price": 380,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "咖啡包"
+      ],
+      "ingenuity": [
+        "奶油 or 香草奶油 or 頂級奶油 or 砂糖 or 巧克力 or 豆漿 or 冰淇淋"
+      ]
+    },
+    {
+      "name": "抹茶",
+      "category": "其他料理(茶)",
+      "price": 364,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "抹茶罐"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖"
+      ]
+    },
+    {
+      "name": "薄荷茶",
+      "category": "其他料理(茶)",
+      "price": 344,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "薄荷紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "洋甘菊茶",
+      "category": "其他料理(茶)",
+      "price": 344,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "洋甘菊紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "薰衣草茶",
+      "category": "其他料理(茶)",
+      "price": 344,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "薰衣草紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "核桃飲",
+      "category": "其他料理(果汁)",
+      "price": 260,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "瓶裝核桃"
+      ],
+      "ingenuity": [
+        "香蕉 or 牛奶 or 水牛奶 or 薄荷 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "熱牛奶",
+      "category": "其他料理",
+      "price": 195,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "牛奶 or 水牛奶"
+      ],
+      "ingenuity": [
+        "香蕉 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 巧克力 or 黃豆粉"
+      ]
+    },
+    {
+      "name": "綠茶",
+      "category": "其他料理(茶)",
+      "price": 182,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "綠茶罐"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 砂糖"
+      ]
+    },
+    {
+      "name": "草莓汁",
+      "category": "其他料理(果汁)",
+      "price": 156,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "草莓"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "番茄汁",
+      "category": "其他料理(果汁)",
+      "price": 55,
+      "recovery": "少量",
+      "effect": "對話友好度增加LV1",
+      "materials": [
+        "番茄"
+      ],
+      "ingenuity": [
+        "檸檬 or 薄荷 or 鹽"
+      ]
+    },
+    {
+      "name": "特調果汁",
+      "category": "其他料理(果汁)",
+      "price": 9511,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV4",
+      "materials": [
+        "春風果汁",
+        "夏風果汁",
+        "秋風果汁",
+        "皇家蜂蜜"
+      ],
+      "ingenuity": [
+        "頂級牛奶 or 果實優格 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "秋色特調茶",
+      "category": "其他料理(茶)",
+      "price": 1452,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV3",
+      "materials": [
+        "秋色特調紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "秋風果汁",
+      "category": "其他料理(果汁)",
+      "price": 1010,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV3",
+      "materials": [
+        "藍莓汁",
+        "葡萄汁",
+        "蘋果汁"
+      ],
+      "ingenuity": [
+        "牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "葡萄果醬",
+      "category": "其他料理",
+      "price": 1007,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV3",
+      "materials": [
+        "葡萄",
+        "砂糖",
+        "檸檬"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "蘋果果醬",
+      "category": "其他料理",
+      "price": 932,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV3",
+      "materials": [
+        "蘋果",
+        "砂糖",
+        "檸檬"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "藍莓果醬",
+      "category": "其他料理",
+      "price": 863,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV3",
+      "materials": [
+        "藍莓",
+        "砂糖",
+        "檸檬"
+      ],
+      "ingenuity": [
+        "蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "香蕉茶",
+      "category": "其他料理(茶)",
+      "price": 832,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "香蕉紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "芒果茶",
+      "category": "其他料理(茶)",
+      "price": 832,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "芒果紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "麝香葡萄茶",
+      "category": "其他料理(茶)",
+      "price": 777,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "麝香葡萄紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "葡萄茶",
+      "category": "其他料理(茶)",
+      "price": 755,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "葡萄紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "蘋果茶",
+      "category": "其他料理(茶)",
+      "price": 740,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "蘋果紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "櫻桃茶",
+      "category": "其他料理(茶)",
+      "price": 647,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "櫻桃紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "桃子茶",
+      "category": "其他料理(茶)",
+      "price": 647,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "桃子紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "柳橙茶",
+      "category": "其他料理(茶)",
+      "price": 642,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "柳橙紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "檸檬茶",
+      "category": "其他料理(茶)",
+      "price": 632,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "檸檬紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "藍莓茶",
+      "category": "其他料理(茶)",
+      "price": 601,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "藍莓紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "橄欖茶",
+      "category": "其他料理(茶)",
+      "price": 586,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV2",
+      "materials": [
+        "橄欖紅茶罐"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜 or 砂糖"
+      ]
+    },
+    {
+      "name": "香蕉汁",
+      "category": "其他料理(果汁)",
+      "price": 360,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "香蕉"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "芒果汁",
+      "category": "其他料理(果汁)",
+      "price": 260,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "芒果"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "葡萄汁",
+      "category": "其他料理(果汁)",
+      "price": 228,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "葡萄"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "蘋果汁",
+      "category": "其他料理(果汁)",
+      "price": 221,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "蘋果"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "櫻桃汁",
+      "category": "其他料理(果汁)",
+      "price": 182,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "櫻桃"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "桃子汁",
+      "category": "其他料理(果汁)",
+      "price": 182,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "桃子"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "柳橙汁",
+      "category": "其他料理(果汁)",
+      "price": 180,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "柳橙"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "檸檬汁",
+      "category": "其他料理(果汁)",
+      "price": 176,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "檸檬"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "藍莓汁",
+      "category": "其他料理(果汁)",
+      "price": 163,
+      "recovery": "少量",
+      "effect": "寵物訓練效果提升LV1",
+      "materials": [
+        "藍莓"
+      ],
+      "ingenuity": [
+        "檸檬 or 牛奶 or 水牛奶 or 優格 or 果實優格 or 頂級優格 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "快樂水果盤",
+      "category": "其他料理",
+      "price": 3274,
+      "recovery": "少量",
+      "effect": "快樂能量提升LV4",
+      "materials": [
+        "愛心西瓜",
+        "櫻桃 or 藍莓 or 麝香葡萄 or 草莓 or 芒果 or 鳳梨 or 香蕉 or 桃子 or 柳橙 or 哈密瓜",
+        "蘋果 or 葡萄 or 麝香葡萄 or 草莓 or 芒果 or 鳳梨 or 香蕉 or 桃子 or 柳橙 or 哈密瓜"
+      ],
+      "ingenuity": [
+        "砂糖 or 鹽 or 核桃 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "快樂雞蛋拌蔬菜",
+      "category": "其他料理",
+      "price": 1233,
+      "recovery": "少量",
+      "effect": "快樂能量提升LV3",
+      "materials": [
+        "蛋 or 烏骨雞蛋",
+        "玉蜀黍",
+        "洋蔥",
+        "小黃瓜 or 洋蔥 or 蘆筍 or 番茄 or 甜椒 or 胡蘿蔔 or 蕪菁 or 番薯 or 南瓜 or 茄子"
+      ],
+      "ingenuity": [
+        "砂糖 or 鹽 or 核桃 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "快樂烤蘑菇",
+      "category": "其他料理",
+      "price": 662,
+      "recovery": "少量",
+      "effect": "快樂能量提升LV2",
+      "materials": [
+        "香菇 or 鴻喜菇 or 洋菇 or 牛肝菌 or 羊肚菌 or  松茸 or 國王菇",
+        "鹽"
+      ],
+      "ingenuity": [
+        "砂糖 or 鹽 or 核桃 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    },
+    {
+      "name": "快樂烤樹果",
+      "category": "其他料理",
+      "price": 130,
+      "recovery": "少量",
+      "effect": "快樂能量提升LV1",
+      "materials": [
+        "核桃"
+      ],
+      "ingenuity": [
+        "砂糖 or 鹽 or 核桃 or 牛奶 or 水牛奶 or 蜂蜜 or 清爽蜂蜜 or 滑順蜂蜜 or 皇家蜂蜜"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>牧場物語 來吧！風之繁華市集 物品查詢</title>
+{{STYLE_PLACEHOLDER}}
+</head>
+<body>
+<div class="container">
+<div class="header">
+<h1>🌾 牧場物語 來吧！風之繁華市集 物品查詢</h1>
+<p>搜尋材料，快速找到相關的農作物、加工品和料理</p>
+</div>
+<div class="global-search">
+<div class="search-box">
+<input type="text" class="search-input" id="globalSearch" placeholder="輸入材料名稱（例如：稻米、番茄、起司）支援多個材料用半形逗號或空格分隔">
+<div class="mode-toggle">
+<button class="mode-btn active" data-mode="or">任一材料 OR</button>
+<button class="mode-btn" data-mode="and">全部材料 AND</button>
+</div>
+<div class="search-scope-toggle" id="searchScopeToggle" style="display:none">
+<button class="scope-btn active" data-scope="all">材料+巧思</button>
+<button class="scope-btn" data-scope="main">只搜尋材料</button>
+</div>
+<button class="clear-btn" id="clearSearch">清除</button>
+</div>
+<div class="search-results-summary" id="searchSummary" style="display:none">
+<div class="result-badge" data-tab="crops"><span class="icon">🌾</span><span>農作物</span><span class="count">0</span></div>
+<div class="result-badge" data-tab="processed"><span class="icon">⚙️</span><span>加工品</span><span class="count">0</span></div>
+<div class="result-badge" data-tab="cooking"><span class="icon">🍳</span><span>料理</span><span class="count">0</span></div>
+</div>
+</div>
+<div class="tabs">
+<button class="tab active" data-tab="crops"><span class="icon">🌾</span>農作物<span class="badge">109</span></button>
+<button class="tab" data-tab="processed"><span class="icon">⚙️</span>加工品<span class="badge">271</span></button>
+<button class="tab" data-tab="cooking"><span class="icon">🍳</span>料理<span class="badge">266</span></button>
+</div>
+<div class="tab-content active" id="crops">
+<div class="filters">
+<div class="filter-group"><span class="filter-label">季節</span>
+<select class="filter-select" id="seasonFilter">
+<option value="all">全部</option><option value="春">春</option><option value="夏">夏</option><option value="秋">秋</option><option value="冬">冬</option>
+</select></div>
+<div class="filter-group"><span class="filter-label">連作</span>
+<select class="filter-select" id="continuousFilter">
+<option value="all">全部</option><option value="yes">連作作物</option><option value="no">非連作</option>
+</select></div>
+<div class="slider-group">
+<span class="filter-label">成長天數</span>
+<input type="range" class="slider" id="daysSlider" min="0" max="14" value="14">
+<span class="slider-value" id="daysValue">≤ 14 天</span>
+</div>
+</div>
+<div class="stats" id="cropsStats">顯示 109 個項目</div>
+<div class="table-container">
+<table><thead><tr>
+<th class="sortable" data-sort="name">名稱</th>
+<th>種植季節</th>
+<th class="sortable" data-sort="days">成長天數</th>
+<th>連作</th>
+<th class="sortable" data-sort="harvest">收穫量</th>
+<th class="sortable" data-sort="price">基本價格</th>
+</tr></thead>
+<tbody id="cropsTable"></tbody>
+</table>
+<div class="no-results" id="cropsNoResults" style="display:none"><div class="no-results-icon">🔍</div><h3>找不到符合的農作物</h3></div>
+</div>
+</div>
+<div class="tab-content" id="processed">
+<div class="filters">
+<div class="filter-group"><span class="filter-label">風車</span>
+<select class="filter-select" id="windmillFilter">
+<option value="all">全部</option><option value="紅色風車">紅色風車</option><option value="藍色風車">藍色風車</option><option value="黃色風車">黃色風車</option>
+</select></div>
+<div class="filter-group"><span class="filter-label">類別</span>
+<select class="filter-select" id="categoryFilter"><option value="all">全部</option></select></div>
+</div>
+<div class="stats" id="processedStats">顯示 271 個項目</div>
+<div class="table-container">
+<table><thead><tr>
+<th class="sortable" data-sort="name">名稱</th>
+<th>類別</th>
+<th>風車</th>
+<th>材料</th>
+<th class="sortable" data-sort="price">基本價格</th>
+</tr></thead>
+<tbody id="processedTable"></tbody>
+</table>
+<div class="no-results" id="processedNoResults" style="display:none"><div class="no-results-icon">🔍</div><h3>找不到符合的加工品</h3></div>
+</div>
+</div>
+<div class="tab-content" id="cooking">
+<div class="filters">
+<div class="filter-group"><span class="filter-label">類別</span>
+<select class="filter-select" id="cookingCategoryFilter"><option value="all">全部</option></select></div>
+<div class="filter-group"><span class="filter-label">恢復量</span>
+<select class="filter-select" id="recoveryFilter">
+<option value="all">全部</option><option value="少量">少量</option><option value="普通">普通</option><option value="很多">很多</option><option value="超多">超多</option>
+</select></div>
+<div class="filter-group"><span class="filter-label">效果</span>
+<select class="filter-select" id="effectFilter"><option value="all">全部</option></select></div>
+</div>
+<div class="stats" id="cookingStats">顯示 266 個項目</div>
+<div class="table-container">
+<table><thead><tr>
+<th class="sortable" data-sort="name">名稱</th>
+<th>類別</th>
+<th>材料</th>
+<th>巧思</th>
+<th>效果</th>
+<th>恢復量</th>
+<th class="sortable" data-sort="price">基本價格</th>
+</tr></thead>
+<tbody id="cookingTable"></tbody>
+</table>
+<div class="no-results" id="cookingNoResults" style="display:none"><div class="no-results-icon">🔍</div><h3>找不到符合的料理</h3></div>
+</div>
+</div>
+<div class="footer">
+資料來源：<a href="https://forum.gamer.com.tw/C.php?bsn=1405&snA=26965" target="_blank">巴哈姆特 牧場物語 來吧！風之繁華市集 哈啦板</a><br>
+感謝玩家們的資料整理與分享 ❤️
+</div>
+</div>
+{{SCRIPT_PLACEHOLDER}}
+</body>
+</html>
