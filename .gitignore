@@ -31,3 +31,7 @@ Thumbs.db
 # 暫存檔案
 /tmp/
 *.tmp
+
+# Excel 暫存檔
+~$*.xlsx
+.~lock.*
