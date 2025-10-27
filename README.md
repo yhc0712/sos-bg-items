@@ -36,8 +36,8 @@ Story of Seasons/
 │   ├── template.html            # HTML 模板
 │   ├── styles.css               # CSS 樣式
 │   └── app.js                   # JavaScript 程式碼
-├── dist/
-│   └── 牧場物語物品查詢工具.html  # 最終產出（可直接開啟）
+├── docs/
+│   └── index.html  # 最終產出（可直接開啟）
 ├── requirements.txt             # Python 依賴
 ├── .gitignore
 └── README.md
